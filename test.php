@@ -36,6 +36,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <input type="button" value="Hey" onclick="dataLayer.push({'event': 'IamClickTestEvent'});">
 
 <button id="addToCart">addToCart</button>
+
+<a id="link" href="#">I am Link </a>
     </form>
     <script>
       document.getElementById("addToCart").addEventListener("click", function () {
@@ -51,6 +53,24 @@ gtag("event", "Hello", {
   ]
 });
 gtag('event', 'testinnnnn', {
+  'app_name': 'myAppName',
+  'screen_name': 'Home'
+});
+});
+
+document.getElementById("link").addEventListener("click", function () {
+
+gtag("event", "linkclick", {
+  currency: "USD",
+  value: 7.77,
+  items: [
+    {
+      item_id: "SKU_12345",
+      item_name: "Stan and Friends Tee",
+    }
+  ]
+});
+gtag('event', 'linkclick', {
   'app_name': 'myAppName',
   'screen_name': 'Home'
 });
