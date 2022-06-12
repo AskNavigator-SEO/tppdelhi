@@ -40,7 +40,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <script>
       document.getElementById("addToCart").addEventListener("click", function () {
 
-gtag("event", "spend_virtual_currency", {
+gtag("event", "Hello", {
   currency: "USD",
   value: 7.77,
   items: [
