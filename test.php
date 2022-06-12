@@ -33,7 +33,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     Hello
 
     <form action="" method="get">
-<input type="button" value="Hey" onclick="dataLayer.push({'event': 'button1-click'});">
+<input type="button" value="Hey" onclick="dataLayer.push({'event': 'IamClickTestEvent'});">
 
     </form>chang
 </body>
