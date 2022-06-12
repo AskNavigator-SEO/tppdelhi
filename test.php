@@ -19,7 +19,7 @@
     Hello
 
     <form action="" method="get">
-<input type="button" value="Hey">
+<input type="button" value="Hey" onclick="dataLayer.push({'event': 'button1-click'});>
 
     </form>
 </body>
