@@ -50,7 +50,12 @@ gtag("event", "Hello", {
     }
   ]
 });
+gtag('event', 'testinnnnn', {
+  'app_name': 'myAppName',
+  'screen_name': 'Home'
 });
+});
+
 
 
     </script>
