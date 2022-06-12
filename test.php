@@ -17,5 +17,10 @@
 </head>
 <body>
     Hello
+
+    <form action="" method="get">
+<input type="button" value="Hey">
+
+    </form>
 </body>
 </html>
