@@ -35,6 +35,23 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <form action="" method="get">
 <input type="button" value="Hey" onclick="dataLayer.push({'event': 'IamClickTestEvent'});">
 
-    </form>chang
+    </form>
+    <script>
+      document.getElementById("addToCart").addEventListener("click", function () {
+
+gtag("event", "spend_virtual_currency", {
+  currency: "USD",
+  value: 7.77,
+  items: [
+    {
+      item_id: "SKU_12345",
+      item_name: "Stan and Friends Tee",
+    }
+  ]
+});
+});
+
+
+    </script>
 </body>
 </html>
