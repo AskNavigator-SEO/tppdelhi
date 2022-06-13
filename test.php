@@ -21,17 +21,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P8DDNB8"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
-<p onclick="dataLayer.push({'event': 'IamClickTestEvent'});"> Hey </p>
 
     Hello
 
-    <form action="" method="get">
-<input type="button" value="Hey" onclick="dataLayer.push({'event': 'IamClickTestEvent'});">
 
 <button id="addToCart">addToCart</button>
 
 <a id="link" href="#">I am Link </a>
-    </form>
+   
     <script>
       document.getElementById("addToCart").addEventListener("click", function () {
 
@@ -85,6 +82,12 @@ gtag('event', 'linkclick', {
   favorite_instrument: 'double bass',
   season_ticketholder: 'true'
 });
+
+gtag('event', 'linkclick', {
+  'app_name': 'myAppName',
+  'screen_name': 'Home'
+});
+
     </script>
 </body>
 </html>
