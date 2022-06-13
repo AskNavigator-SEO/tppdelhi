@@ -83,6 +83,10 @@ gtag('event', 'linkclick', {
  'plan': 'Premium'
  });
 
+ dataLayer.push({'event':'button1-click','conversionValue':25});
+
+
+
 
     </script>
 </body>
