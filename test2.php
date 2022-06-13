@@ -1,3 +1,12 @@
+
+<?php
+
+header("Location:#.'$txt");
+
+?>
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
