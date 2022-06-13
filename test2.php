@@ -1,7 +1,8 @@
 
 <?php
 
-header("Location:#.'$txt");
+$txt="hi";
+Header("Location: query.php?user=".$txt);
 
 ?>
 
