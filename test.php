@@ -87,7 +87,11 @@ gtag('event', 'linkclick', {
 
  dataLayer.push({'only data':25});
 
-
+ gtag('set', 'user_properties', {
+  favorite_composer: 'Mahler',
+  favorite_instrument: 'double bass',
+  season_ticketholder: 'true'
+});
     </script>
 </body>
 </html>
