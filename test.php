@@ -76,6 +76,12 @@ gtag('event', 'linkclick', {
 });
 });
 
+ window.dataLayer = window.dataLayer || [];
+ window.dataLayer.push({
+ 'event': 'registrationComplete',
+ 'registrationCountry': 'United States',
+ 'plan': 'Premium'
+ });
 
 
     </script>
