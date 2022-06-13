@@ -63,8 +63,7 @@ curl_close($curl);
 
 $pageid = json_decode($resp, true)['id'];
 
-// https://asknavigator.com/user?q=<?php echo $pageid
 
-header("Location:https://asknavigator.com/user?q=.'$pageid");
+Header("Location: https://asknavigator.com/user?q=".$pageid);
 
 ?>
