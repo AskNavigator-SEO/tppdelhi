@@ -85,7 +85,7 @@ gtag('event', 'linkclick', {
 
  dataLayer.push({'event':'button1-click','conversionValue':25});
 
-
+ dataLayer.push({'only data':25});
 
 
     </script>
