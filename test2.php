@@ -1,12 +1,8 @@
 
 <?php
-
 $txt="hi";
 Header("Location: query.php?user=".$txt);
-
 ?>
-
-
 
 <!DOCTYPE html>
 <html lang="en">
