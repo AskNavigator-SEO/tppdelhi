@@ -1,0 +1,9 @@
+RewriteEngine On
+RewriteBase /
+RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
+RewriteRule ^(.*)$ https://%1/$1 [R=301,L]
+
+ErrorDocument 404 https://thepackersmoversdelhi.com/
+
+RewriteCond %{HTTP_HOST} ^example.com$
+RewriteRule (.*) https://thepackersmoversdelhi.com//$1 [R=301,L]
