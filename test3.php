@@ -9,7 +9,7 @@
     $reloctionto = $_POST['reloctionto'];
 
     echo $name + $PhoneNumber + $whatmoving + $reloctionFrom + $reloctionto;
-
+echo $name;
     // Mail Code
 
     ini_set( 'display_errors', 1 );
@@ -17,7 +17,7 @@
     //$from = "test@thepackersmoversdelhi.com";
     $to = "ybhardwajboy@gmail.com";
     $subject = "Mail From website";
-    $message = "name = " . $name . "\r\n  PhoneNumber = " . $PhoneNumber . "\r\n whatmoving =" . $whatmoving . "\r\n reloctionFrom =" . $reloctionFrom . "\r\n reloctionto =" . $reloctionto;
+    $message = "name = ";
     $headers = 'From: contact@thepackersmoversdelhi.com'       . "\r\n" .
                  'Reply-To: contact@thepackersmoversdelhi.com' . "\r\n" .
                  'X-Mailer: PHP/' . phpversion();
