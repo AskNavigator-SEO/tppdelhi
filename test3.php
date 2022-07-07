@@ -1,5 +1,5 @@
 <?php
-if (isset($_POST['submit'])) {
+
     //get data from form
     $name = $_POST['Name'];
     $PhoneNumber = $_POST['PhoneNumber'];
@@ -31,7 +31,6 @@ if (isset($_POST['submit'])) {
     }
 
 
-}
 
 // Forward lead to AskNavigator
 // $url = "https://api.asknavigator.com/user/create.php";
