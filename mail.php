@@ -23,7 +23,7 @@ if (isset($_POST['submit'])) {
     //$headers = "From:" . $from;
     echo $message;
     if(mail($to,$subject,$message, $headers)) {
-    
+    echo "sent";
       //  header("Location:https://quick.asknavigator.com/survey.php");
     } else {
         echo "The email message was not sent.";
