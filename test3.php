@@ -69,5 +69,5 @@ $pageid = json_decode($resp, true)['id'];
 
 // Header("Location: https://asknavigator.com/user?q=".$pageid);
 
-Header("Location: https://thepackersmoversdelhi.com/thankyou.html?q=".$pageid);
+// header("Location: https://thepackersmoversdelhi.com/thankyou.html?q=".$pageid);
 ?>
