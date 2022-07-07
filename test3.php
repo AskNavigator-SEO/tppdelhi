@@ -11,7 +11,7 @@
   //  echo $name + $PhoneNumber + $whatmoving + $reloctionFrom + $reloctionto;
 echo $_POST['name'];
   // Mail Code
-/*
+
     ini_set( 'display_errors', 1 );
     error_reporting( E_ALL );
     //$from = "test@thepackersmoversdelhi.com";
@@ -24,11 +24,11 @@ echo $_POST['name'];
     //$headers = "From:" . $from;
     echo $message;
     if(mail($to,$subject,$message, $headers)) {
-    
+      echo "Sent";
       //  header("Location:https://quick.asknavigator.com/survey.php");
     } else {
         echo "The email message was not sent.";
     }
-*/
+
 
 ?>
