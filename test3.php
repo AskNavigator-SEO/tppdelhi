@@ -9,7 +9,7 @@
     $reloctionto = $_POST['reloctionto'];
 
     echo $name + $PhoneNumber + $whatmoving + $reloctionFrom + $reloctionto;
-echo $name;
+// echo $name;
     // Mail Code
 
     ini_set( 'display_errors', 1 );
