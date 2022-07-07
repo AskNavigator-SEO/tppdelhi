@@ -16,7 +16,7 @@ if (isset($_POST['submit'])) {
     $to = "ybhardwajboy@gmail.com";
     $subject = "Mail From website";
     // $message = "name = " . $name . "\r\n  PhoneNumber = " . $PhoneNumber . "\r\n whatmoving =" . $whatmoving . "\r\n reloctionFrom =" . $reloctionFrom . "\r\n reloctionto =" . $reloctionto;
-    $message = 'Hey';
+    $message = 'Heyjhvhbjk';
     $headers = 'From: contact@thepackersmoversdelhi.com'       . "\r\n" .
                  'Reply-To: contact@thepackersmoversdelhi.com' . "\r\n" .
                  'X-Mailer: PHP/' . phpversion();
