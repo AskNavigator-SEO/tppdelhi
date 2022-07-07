@@ -8,7 +8,11 @@
     $reloctionFrom = $_POST['reloctionFrom'];
     $reloctionto = $_POST['reloctionto'];
 
-  //  echo $name + $PhoneNumber + $whatmoving + $reloctionFrom + $reloctionto;
+    if (isset($_get['submit'])) {
+
+    echo "heyjjj";
+
+    }
   // Mail Code
 
     ini_set( 'display_errors', 1 );

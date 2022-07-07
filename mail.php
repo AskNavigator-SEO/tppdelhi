@@ -1,5 +1,5 @@
 <?php
-if (isset($_POST['submit'])) {
+if (isset($_POST['PhoneNumber'])) {
     //get data from form
     $name = $_POST['name'];
     $PhoneNumber = $_POST['PhoneNumber'];
@@ -16,14 +16,14 @@ if (isset($_POST['submit'])) {
     $to = "ybhardwajboy@gmail.com";
     $subject = "Mail From website";
     // $message = "name = " . $name . "\r\n  PhoneNumber = " . $PhoneNumber . "\r\n whatmoving =" . $whatmoving . "\r\n reloctionFrom =" . $reloctionFrom . "\r\n reloctionto =" . $reloctionto;
-    $message = 'Heyjhvhbjk';
+    $message = "Moooo";
     $headers = 'From: contact@thepackersmoversdelhi.com'       . "\r\n" .
                  'Reply-To: contact@thepackersmoversdelhi.com' . "\r\n" .
                  'X-Mailer: PHP/' . phpversion();
-    // $headers = "From:" . $from;
+    //$headers = "From:" . $from;
     echo $message;
     if(mail($to,$subject,$message, $headers)) {
-    echo "sent";
+    
       //  header("Location:https://quick.asknavigator.com/survey.php");
     } else {
         echo "The email message was not sent.";
@@ -34,7 +34,7 @@ if (isset($_POST['submit'])) {
 
 // Forward lead to AskNavigator
 // $url = "https://api.asknavigator.com/user/create.php";
-/*
+
 $curl = curl_init($url);
 curl_setopt($curl, CURLOPT_URL, $url);
 curl_setopt($curl, CURLOPT_POST, true);
@@ -69,6 +69,4 @@ $pageid = json_decode($resp, true)['id'];
 // Header("Location: https://asknavigator.com/user?q=".$pageid);
 
 // header("Location: https://thepackersmoversdelhi.com/thankyou.html?q=".$pageid);
-
-*/
 ?>
