@@ -7,8 +7,8 @@ if (isset($_POST['submit'])) {
     $whatmoving = $_POST['whatmoving'];
     $reloctionFrom = $_POST['reloctionFrom'];
     $reloctionto = $_POST['reloctionto'];
-    
-    echo $name $PhoneNumber $whatmoving  $reloctionFrom $reloctionto;
+
+    echo $name + $PhoneNumber + $whatmoving + $reloctionFrom + $reloctionto;
 
     // Mail Code
 
