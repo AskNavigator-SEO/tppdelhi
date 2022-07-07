@@ -20,7 +20,7 @@ if (isset($_POST['submit'])) {
     $headers = 'From: contact@thepackersmoversdelhi.com'       . "\r\n" .
                  'Reply-To: contact@thepackersmoversdelhi.com' . "\r\n" .
                  'X-Mailer: PHP/' . phpversion();
-    //$headers = "From:" . $from;
+    // $headers = "From:" . $from;
     echo $message;
     if(mail($to,$subject,$message, $headers)) {
     echo "sent";
@@ -34,7 +34,7 @@ if (isset($_POST['submit'])) {
 
 // Forward lead to AskNavigator
 // $url = "https://api.asknavigator.com/user/create.php";
-
+/*
 $curl = curl_init($url);
 curl_setopt($curl, CURLOPT_URL, $url);
 curl_setopt($curl, CURLOPT_POST, true);
@@ -69,4 +69,6 @@ $pageid = json_decode($resp, true)['id'];
 // Header("Location: https://asknavigator.com/user?q=".$pageid);
 
 // header("Location: https://thepackersmoversdelhi.com/thankyou.html?q=".$pageid);
+
+*/
 ?>
