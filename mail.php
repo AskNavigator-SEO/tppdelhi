@@ -14,9 +14,9 @@ if (isset($_POST['PhoneNumber'])) {
     ini_set( 'display_errors', 1 );
     error_reporting( E_ALL );
     //$from = "test@thepackersmoversdelhi.com";
-    $to = "ybhardwajboy@gmail.com";
+    $to = "tpmdleads@gmail.com";
     $subject = "Mail From website";
-    $message = "name = " . $name . "\r\n  PhoneNumber = " . $PhoneNumber . "\r\n whatmoving =" . $whatmoving . "\r\n reloctionFrom =" . $reloctionFrom . "\r\n reloctionto =" . $reloctionto;
+    $message = "Name = " . $name . "\r\nPhoneNumber = " . $PhoneNumber . "\r\nwhatmoving =" . $whatmoving . "\r\nReloctionFrom =" . $reloctionFrom . "\r\nreloctionto =" . $reloctionto;
 
     $headers = 'From: contact@thepackersmoversdelhi.com'       . "\r\n" .
                  'Reply-To: contact@thepackersmoversdelhi.com' . "\r\n" .
@@ -34,7 +34,7 @@ if (isset($_POST['PhoneNumber'])) {
 }
 
 // Forward lead to AskNavigator
-// $url = "https://api.asknavigator.com/user/create.php";
+ $url = "https://api.asknavigator.com/user/create.php";
 
 $curl = curl_init($url);
 curl_setopt($curl, CURLOPT_URL, $url);
@@ -69,5 +69,5 @@ $pageid = json_decode($resp, true)['id'];
 
 // Header("Location: https://asknavigator.com/user?q=".$pageid);
 
-// header("Location: https://thepackersmoversdelhi.com/thankyou.html?q=".$pageid);
+ header("Location: https://thepackersmoversdelhi.com/thankyou.html?q=".$pageid);
 ?>
