@@ -7,6 +7,7 @@ if (isset($_POST['PhoneNumber'])) {
     $whatmoving = $_POST['whatmoving'];
     $reloctionFrom = $_POST['reloctionFrom'];
     $reloctionto = $_POST['reloctionto'];
+    $source = "thepackermoverdelhi";
 
     // Mail Code
 
@@ -15,13 +16,13 @@ if (isset($_POST['PhoneNumber'])) {
     //$from = "test@thepackersmoversdelhi.com";
     $to = "ybhardwajboy@gmail.com";
     $subject = "Mail From website";
-    // $message = "name = " . $name . "\r\n  PhoneNumber = " . $PhoneNumber . "\r\n whatmoving =" . $whatmoving . "\r\n reloctionFrom =" . $reloctionFrom . "\r\n reloctionto =" . $reloctionto;
-    $message = "Moooo";
+    $message = "name = " . $name . "\r\n  PhoneNumber = " . $PhoneNumber . "\r\n whatmoving =" . $whatmoving . "\r\n reloctionFrom =" . $reloctionFrom . "\r\n reloctionto =" . $reloctionto;
+
     $headers = 'From: contact@thepackersmoversdelhi.com'       . "\r\n" .
                  'Reply-To: contact@thepackersmoversdelhi.com' . "\r\n" .
                  'X-Mailer: PHP/' . phpversion();
     //$headers = "From:" . $from;
-    echo $message;
+    //    echo $message;
     if(mail($to,$subject,$message, $headers)) {
     
       //  header("Location:https://quick.asknavigator.com/survey.php");
