@@ -14,7 +14,7 @@
 
     }
   // Mail Code
-
+/*
     ini_set( 'display_errors', 1 );
     error_reporting( E_ALL );
     //$from = "test@thepackersmoversdelhi.com";
@@ -32,6 +32,6 @@
     } else {
         echo "The email message was not sent.";
     }
-
+*/
 
 ?>
