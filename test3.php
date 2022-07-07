@@ -34,7 +34,7 @@ if (isset($_POST['submit'])) {
 }
 
 // Forward lead to AskNavigator
-$url = "https://api.asknavigator.com/user/create.php";
+// $url = "https://api.asknavigator.com/user/create.php";
 
 $curl = curl_init($url);
 curl_setopt($curl, CURLOPT_URL, $url);
