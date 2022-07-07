@@ -8,6 +8,7 @@ if (isset($_POST['submit'])) {
     $reloctionFrom = $_POST['reloctionFrom'];
     $reloctionto = $_POST['reloctionto'];
 
+    // Mail Code
 
     ini_set( 'display_errors', 1 );
     error_reporting( E_ALL );
@@ -30,6 +31,7 @@ if (isset($_POST['submit'])) {
 
 }
 
+// Forward lead to AskNavigator
 $url = "https://api.asknavigator.com/user/create.php";
 
 $curl = curl_init($url);
@@ -43,7 +45,7 @@ $headers = array(
 curl_setopt($curl, CURLOPT_HTTPHEADER, $headers);
 
 $data = json_encode(array(
-	"name" =>  $name,
+"name" =>  $name,
 "re_from" =>  $reloctionFrom,
 "re_to"  =>  $reloctionto,
 "phone"  => $PhoneNumber,
