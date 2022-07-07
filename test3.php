@@ -9,8 +9,8 @@
     $reloctionto = $_POST['reloctionto'];
 
   //  echo $name + $PhoneNumber + $whatmoving + $reloctionFrom + $reloctionto;
-echo $_GET['Name'];
-    // Mail Code
+echo $_POST['Name'];
+  // Mail Code
 /*
     ini_set( 'display_errors', 1 );
     error_reporting( E_ALL );
