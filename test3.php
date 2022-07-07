@@ -11,7 +11,7 @@
   //  echo $name + $PhoneNumber + $whatmoving + $reloctionFrom + $reloctionto;
 echo $_GET['Name'];
     // Mail Code
-
+/*
     ini_set( 'display_errors', 1 );
     error_reporting( E_ALL );
     //$from = "test@thepackersmoversdelhi.com";
@@ -29,6 +29,6 @@ echo $_GET['Name'];
     } else {
         echo "The email message was not sent.";
     }
-
+*/
 
 ?>
