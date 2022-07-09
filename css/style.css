@@ -177,6 +177,7 @@
 
   .right form .inputs input, .right form .inputs select{
    padding: 9px 10px;
+   background-color: #fff;
    border: 0.5px solid #787878;
    border-radius: 3px;
    margin: 8px 0px;
@@ -1237,6 +1238,9 @@ footer > .lower-call-btn > a {
     .right, .left{
       width: 90%;
       margin: auto;
+    }
+    .right form .inputs input, .right form .inputs select {
+      font-size: 12px;
     }
     .right form .inputs h2{
       font-size: 20px;

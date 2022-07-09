@@ -34,6 +34,16 @@
     animation: poop 3s linear infinite;
 }
 
+
+
+
+
+
+
+
+
+/* <============================ midea quary phone secrien ==================> */
+
 @media (max-width: 1000px) {
     .eleventh >.lower-call-btn {
         flex-direction: column;
