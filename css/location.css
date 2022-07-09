@@ -38,6 +38,11 @@
     .eleventh >.lower-call-btn {
         flex-direction: column;
         width: 90%;
-        
+        padding: 26px 20px;
+
+    }
+    .eleventh >.lower-call-btn > h3 {
+        font-size: 20px;
+        margin: 10px 0px;
     }
 }
