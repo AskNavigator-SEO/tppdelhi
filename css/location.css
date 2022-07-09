@@ -35,7 +35,9 @@
 }
 
 @media (max-width: 1000px) {
-    .eleventh >.lower {
+    .eleventh >.lower-call-btn {
         flex-direction: column;
+        width: 90%;
+        
     }
 }
