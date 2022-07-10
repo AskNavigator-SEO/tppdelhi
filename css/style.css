@@ -1228,6 +1228,8 @@ footer > .lower-call-btn > a {
     position: absolute;
     top: -180px;
     display: block;
+    height: 53rem;
+    box-shadow: 0px 11px 119px 3px #cdcdcd6
   }
 
   .first .Hero_Section .left p {
@@ -1269,9 +1271,7 @@ footer > .lower-call-btn > a {
 
 
     /* <================= second secton ================> */
-    .Why-choose {
-      margin-top: 20rem;
-    }
+   
     .Why-choose h2 {
       font-size: 35px;
     }
