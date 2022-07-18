@@ -1558,6 +1558,12 @@ footer > .lower-call-btn > a {
       margin-top: 15px;
    
     }
+    .footer > .footers-items > .footer-item{
+      flex-direction: column;
+    }
+    .footer > .footers-items > .footer-item > .footer-link-list > form {
+      display: inline-flex;
+    }
     .footer {
       width: 90%;
     }
