@@ -1214,7 +1214,7 @@ footer > .lower-call-btn > a {
     .Hero_Section{
       width: 100%;
       flex-direction: column;
-      top: 185px;
+      top: 130px;
     }
     .feature {
       display: none;
@@ -1241,7 +1241,7 @@ footer > .lower-call-btn > a {
 
     /* <======= first section =====> */
     .right form {
-      padding: 27px 30px 45x 30px;
+      padding: 27px 30px 45px 30px;
     }
     .right, .left{
       width: 90%;
@@ -1256,7 +1256,7 @@ footer > .lower-call-btn > a {
     .left h1 {
       font-size: 24px;
       position: relative;
-      top: -150px;
+      top: -100px;
     }
     .hero_continar {
       height:430px;
