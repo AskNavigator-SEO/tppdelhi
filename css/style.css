@@ -62,7 +62,7 @@
 
   }
   
-  .nav > .nav-links >{
+  .nav > .nav-links {
     background-color: rgba(0, 0, 0, 0.3);
     border-radius: 50px;
   }
@@ -763,7 +763,7 @@ h1 {
 .eight > .container,
 .tenth > .container {
   width: 80%;
-  border: 1px solid #DEDEDE;
+  border: 1px solid #f1f1f1;
   padding: 30px 56px;
   border-radius: 9px;
   margin: 40px auto;
@@ -906,19 +906,19 @@ h1 {
   display: flex;
   align-items: center;
   text-decoration: none;
-  color: black;
+  color: #3f1bf0;
   padding: 10px 0px;
-  border-bottom: 1px dashed #2B244D;
   transition: all 0.2s ease-in-out;
   font-weight: 500;
   font-size: 18px;
 }
 .eleventh > .container > .services-cities-list > ul> li > a:hover {
-  color: #5A5AF6;
+  color: #4427d0;
   border-bottom: 1px dashed #5757c9;
 }
 .eleventh > .container > .services-cities-list > ul> li > a > img {
   padding: 0px 20px 0px 0px;
+  width: 44px;
 }
 
 
@@ -1032,8 +1032,6 @@ footer > .lower-call-btn > a {
 }
 
 .footer > .footers-items > .footer-item > .footer-link-list > ul > li > a:hover{
-  color: #fff;
-  transform: scale(1.2); 
   background-color: #fff;
   color: #5A5AF6;
 }
@@ -1449,7 +1447,7 @@ footer > .lower-call-btn > a {
     }
     .question {
       font-size: 14px;
-      padding: 20px 20px 20px 5px;
+      padding: 20px 35px 20px 5px;
       font-weight: 600;
     }
     .question::after {
@@ -1536,11 +1534,11 @@ footer > .lower-call-btn > a {
     width: 100%;
   }
   .eleventh > .container > .services-cities-list > ul> li > a{
-    font-size: 16px;
+    font-size: 14px;
   }
   .eleventh > .container > .services-cities-list > ul> li > a > img {
     padding: 0px 8px 0px 0px;
-    width: 30px ;
+    width: 25px ;
   }
 
     /* <======================== footer =========================> */
