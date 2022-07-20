@@ -65,10 +65,10 @@
 
   }
   
-  .nav > .nav-links {
+  /* .nav > .nav-links {
     background-color: rgba(0, 0, 0, 0.3);
     border-radius: 50px;
-  }
+  } */
 
   .nav .nav-links a:hover{
       color: #4646db;
@@ -563,9 +563,8 @@ table{
   border-collapse: collapse;
   border-width: 0;
   border-style: solid;
-  font-family: 'Lato', sans-serif;
   border-color: inherit;
-  letter-spacing: 0.5px;
+  /* letter-spacing: 0.5px; */
 }
 
 .Price_table th {
@@ -601,7 +600,7 @@ table{
   display: table;
   padding: 0 0 8em 0;
   margin-bottom: 50px;
-  box-shadow: 0px 1px 12px rgba(0, 0, 0, 0.25);
+  box-shadow: 0px 0px 11px rgba(59, 59, 59, 0.15);
   border-radius: 6px;
 }
 .Price_table td, .Price_table th {
@@ -965,17 +964,13 @@ footer > .lower-call-btn > a {
 @keyframes poop {
   0% {
     transform: scale(1);
-    background-color: #eae0ff;
   }
   50% {
-    transform: scale(1.1);
-    background-color: #ffffff;
-    box-shadow: 1px 1px 25px 2px #bdbdff;
+    transform: scale(.95);
   }
   
   100% {
     transform: scale(1);
-    background-color: #e9e2ff;
   }
 }
 
@@ -1139,7 +1134,7 @@ footer > .lower-call-btn > a {
     .nav > .nav-links {
       position: absolute;
       display: block;
-      width: 250px;
+      width: 100%;
       background-color: #ffffff;
       height: 0px;
       padding: 0;
@@ -1216,7 +1211,7 @@ footer > .lower-call-btn > a {
     .Hero_Section{
       width: 100%;
       flex-direction: column;
-      top: 130px;
+      top: 100px;
     }
     .feature {
       display: none;
@@ -1228,9 +1223,9 @@ footer > .lower-call-btn > a {
 
   .Hero_Section img {
     position: absolute;
-    top: -180px;
+    top: -100px;
     display: block;
-    height: 53rem;
+    height: 50rem;
     /* box-shadow: 0px 11px 119px 3px #dfdfdfc7; */
   }
 
@@ -1258,7 +1253,7 @@ footer > .lower-call-btn > a {
     .left h1 {
       font-size: 24px;
       position: relative;
-      top: -100px;
+      top: -80px;
     }
     .hero_continar {
       height:430px;
@@ -1411,12 +1406,13 @@ footer > .lower-call-btn > a {
     }
 
     .Price_table td:first-child {
-      font-size: 13px;
+      font-size: 11px;
     }
 
     .Price_table td, .Price_table th {
-      font-size: 11.4px;
+      font-size: 10.4px;
       padding-left: 2%;
+      line-height: 24px;
     }
 
     .container-faq td:nth-child(4),
@@ -1498,7 +1494,7 @@ footer > .lower-call-btn > a {
 
     /* <=============== nineth section =================> */
   .nineth > .charging-table{
-    width: 90%;
+    width: 95%;
   }
   .nineth > .charging-table > h2 {
     font-size: 20px;
