@@ -1583,7 +1583,7 @@ footer > .lower-call-btn > a {
       width: fit-content;
     }
     .footer > .footers-items > .footer-item > .footer-link-list > form > input {
-      width: 180px;
+      width: 100%;
     }
     .footer {
       width: 90%;
