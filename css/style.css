@@ -1275,16 +1275,17 @@ footer > .lower-call-btn > a {
     }
     .Why-choose h2 {
       font-size: 35px;
-      margin: 18px 0px;
+      margin: 10px 0px;
     }
     .Why-choose h3 {
-      font-size: 18px;
+      font-size: 14px;
+      margin: 0px;
     }
     .second > img {
       display: none;
     }
     .second .Why-choose .Why-choose_flex{
-      margin: 80px 0px;
+      margin: 60px 0px;
     }
     .second .Why-choose .Why-choose_flex .service_icons {
       width: 100%;
@@ -1480,7 +1481,7 @@ footer > .lower-call-btn > a {
     /* <=============== eight section ===============> */
     .eight > .container,
     .tenth > .container{
-      width: 95%;
+      width: 93%;
       border: none;
       padding: 0px;
     }
