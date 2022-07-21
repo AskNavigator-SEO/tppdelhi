@@ -9,6 +9,7 @@
   p{
     line-height: 23px;
     word-spacing: 2px;
+    letter-spacing: 0.12px;
   }
   .navigatipnbar{
     width: 100%;
@@ -1114,6 +1115,7 @@ footer > .lower-call-btn > a {
         width: 100%;
         display: flex;
         justify-content: space-around;
+        z-index: 1200;
     }
     .nav > .nav-btn > label {
       display: inline-block;
@@ -1218,7 +1220,7 @@ footer > .lower-call-btn > a {
     }
     .first img {
       position: absolute;
-      top: 77px;
+      top: -9px;
   }
 
   .Hero_Section img {
@@ -1268,9 +1270,12 @@ footer > .lower-call-btn > a {
 
 
     /* <================= second secton ================> */
-   
+    .second {
+      margin: 100px 0px;
+    }
     .Why-choose h2 {
       font-size: 35px;
+      margin: 18px 0px;
     }
     .Why-choose h3 {
       font-size: 18px;
@@ -1278,10 +1283,15 @@ footer > .lower-call-btn > a {
     .second > img {
       display: none;
     }
-    
+    .second .Why-choose .Why-choose_flex{
+      margin: 80px 0px;
+    }
     .second .Why-choose .Why-choose_flex .service_icons {
       width: 100%;
       margin: 30px 0px;
+    }
+    .second .Why-choose .Why-choose_flex .service_icons h4 {
+      margin: 15px 0px 5px 0px;
     }
     .second .Why-choose .Why-choose_flex .service_icons p {
       font-size: 14px;
@@ -1329,6 +1339,7 @@ footer > .lower-call-btn > a {
 
     .process .process1st p, .process .process2nd p, .process .process3rd p {
       font-size: 14px;
+      margin: 8px 15px;
     }
 
 
@@ -1379,7 +1390,7 @@ footer > .lower-call-btn > a {
       margin: 20px 0px;
     }
     .finding-cotent > p{
-      font-size: 15px;
+      font-size: 14px;
     }
     
    .finding-flex > .finding-cotent {
@@ -1387,6 +1398,8 @@ footer > .lower-call-btn > a {
     }
     .finding-flex > .finding-cotent >.service-flex {
       flex-direction: column;
+      border:none; 
+      padding: 0px;
     }
     .finding-flex > .finding-cotent > .service-flex > .service-headding {
       width: 100%;
@@ -1394,6 +1407,7 @@ footer > .lower-call-btn > a {
     }
     .finding-flex > .finding-cotent > .service-flex > img {
       width: 100%;
+      margin: 17px 0px;
     }
 
     /* <================ sixth section ==============> */
@@ -1466,8 +1480,8 @@ footer > .lower-call-btn > a {
     /* <=============== eight section ===============> */
     .eight > .container,
     .tenth > .container{
-      padding: 15px 17px;
       width: 95%;
+      border: none;
     }
     .eight > .container > .head-conrainer{
       flex-direction: column;
@@ -1478,7 +1492,7 @@ footer > .lower-call-btn > a {
     }
     .eight > .container > .head-conrainer > img {
       width: 100%;
-      margin: 25px 0px;
+      margin: 35px 0px;
     }
     .eight > .container > .head-conrainer > .head-content h2 {
       font-size: 24px;
@@ -1511,7 +1525,7 @@ footer > .lower-call-btn > a {
     font-weight: 500;
   }
   .tenth > .container > .content-container > p {
-    font-size: 14.9px;
+    font-size: 14px;
   }
   .tenth > .container > .content-container > ul {
     margin: 8px 30px;
@@ -1564,6 +1578,10 @@ footer > .lower-call-btn > a {
     }
     .footer > .footers-items > .footer-item > .footer-link-list > form {
       display: inline-flex;
+      width: fit-content;
+    }
+    .footer > .footers-items > .footer-item > .footer-link-list > form > input {
+      width: 180px;
     }
     .footer {
       width: 90%;
