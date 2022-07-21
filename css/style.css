@@ -1482,6 +1482,7 @@ footer > .lower-call-btn > a {
     .tenth > .container{
       width: 95%;
       border: none;
+      padding: 0px;
     }
     .eight > .container > .head-conrainer{
       flex-direction: column;
