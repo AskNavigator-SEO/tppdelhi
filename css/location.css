@@ -1,0 +1,62 @@
+.eleventh {
+    margin: 50px 0px;
+}
+.eleventh > h1{
+    text-align: center;
+    font-size: 40px;
+    margin: 10px 0px;
+}
+.eleventh > .underline {
+    width: 150px ;
+    height: 2px;
+    background-color: #5A5AF6;
+    margin: auto;
+}
+.eleventh >.lower-call-btn {
+    width: 80%;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 50px auto;
+    padding: 47px 20px;
+    font-size: 26px;
+    color: #fff;
+    border-radius: 10px;
+    background-color: #2B244D;
+}
+.eleventh >.lower-call-btn > a  {
+    font-size: 20px;
+    padding: 14px 30px;
+    background-color: #FFF;
+    color: #0c0c31;
+    font-weight: 600;
+    text-decoration: none;
+    border-radius: 9px;
+    animation: poop 3s linear infinite;
+}
+
+
+
+
+
+
+
+
+
+/* <============================ midea quary phone secrien ==================> */
+
+@media (max-width: 1000px) {
+    .eleventh >.lower-call-btn {
+        flex-direction: column;
+        width: 90%;
+        padding: 26px 20px;
+
+    }
+    .eleventh >.lower-call-btn > h3 {
+        font-size: 20px;
+        margin: 10px 0px;
+    }
+    .eleventh >.lower-call-btn > a {
+        width: fit-content;
+        margin: 20px auto;
+    }
+}

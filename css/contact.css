@@ -1,0 +1,262 @@
+.contact-sectaion {
+    width: 100%;
+    /* background-color: #2B244D; */
+    background-image: url(/images/Backgraound_Contect-us.svg)  ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 580px;
+    margin-bottom: 500px;
+}
+
+.container {
+    width: 80%;
+    background-color: #fff;
+    margin: auto;
+    display: flex;
+    box-shadow: 0px 0px 10px  2px rgb(192, 192, 192);
+    position: relative;
+    justify-content: space-evenly;
+    border-radius: 12px;
+    top: 330px;
+}
+.container > .hero_contact{
+    width: 37%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+
+}
+.container > .hero_contact >img{
+    width: 100%;
+}
+.container > form {
+    width: 50%;
+    /* margin:  auto; */
+    position: relative;
+    /* left: 28%; */
+    padding: 50px ;
+}
+.container > form > .inputs{
+    display: flex;
+    flex-direction: column;
+}
+
+.container > form > .inputs > input,
+.container > form > .inputs > select{
+    padding: 10px ;
+    margin: 10px 0px;
+    color: rgb(95, 95, 95);
+    border-radius: 9px;
+    border: 1px solid rgb(177, 177, 177);
+    outline: none;
+}
+.container > form > .inputs > select > option:nth-child(1){
+    display: none;
+}
+.container > form > .inputs > input:nth-child(7){
+    color: #ffffff;
+    background-color: #5A5AF6;
+    border: 1px solid #5A5AF6;
+    font-weight: 600;
+}
+
+/* <==================== contact areas ===============> */
+.contact-areas {
+    width: 100%;
+    background-color: #5A5AF6;
+    margin: 50px 0px 170px 0px;
+}
+.contact-areas > .areas {
+    width: 80%;
+    margin: auto;
+    padding: 30px 0px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.contact-areas > .areas > .area-list {
+    display: flex;
+    flex-direction: column;
+    background-color: #fff;
+    margin: 25px 0px;
+    padding: 20px;
+    width: 45%;
+    border-radius: 9px;
+}
+.contact-areas > .areas > .area-list > h3 {
+    margin: 8px 0px  15px 0px;
+    font-size: 22px;
+    font-weight: 600;
+}
+.contact-areas > .areas > .area-list > a {
+    display: flex;
+    outline: navajowhite;
+    font-size: 14px;
+    color: #535353;
+    text-decoration: none;
+    align-items: center;
+    margin: 8px 0px;
+}
+
+.contact-areas > .areas > .area-list > a > img {
+    margin: 0px 10px 0px 0px;
+}
+.contact-areas > .areas > .area-list > a > b {
+    margin: 0px 10px 0px 0px;
+    color: #272727;
+}
+ /* <========================= section disclamber ===================> */
+ .disclaimer {
+    width: 100%;
+    margin: 0px 0px 250px 0px;
+ }
+ .disclaimer p {
+    margin: auto;
+    width: 80%;
+    font-size: 18px;
+    color: #656363;
+    border-radius: 8px;
+    box-shadow: 0px 4px 16px #a0a0a083;
+    background-color: #ffffff;
+    padding: 20px;
+}
+.disclaimer > p > b {
+    font-size: 20px;
+    margin: 0px 10px 0px 0px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* <======================================== midiya quary ========================================> */
+
+
+@media (max-width:978px) {
+
+    /* <=========contact hero section ===========> */
+    .contact-sectaion {
+        background-size: cover;
+        margin-bottom: 600px;
+    }
+    /* <================== contact form ==========> */
+    .container {
+        flex-direction: column-reverse;
+        top: 200px;
+        width: 90%;
+    }
+    .container > .hero_contact {
+        width: 75%;
+        margin:auto;
+    }
+    .container > .hero_contact > img {
+        width: 100%;
+        margin: 0px 0px 50px 0px;
+    }
+    .container > form {
+        width: 100%;
+        padding: 10px 15px;
+        margin-top: 20px;
+    }
+
+    /* <================= contact areas =============> */
+    .contact-areas > .areas{
+        width: 90%;
+    }
+    .contact-areas > .areas > .area-list{
+        width: 100%;
+    }
+
+    .disclaimer p {
+        width: 95%;
+        font-size: 15px;
+        padding: 15px 10px;
+    }
+}
+
+
+
+
+
+
+/* <================= mediya quary ===============> */
+@media  (max-width: 420px) and (min-width: 1px) {
+
+    .contact-sectaion {
+        height: 500px;
+        margin-bottom: 450px;
+    }
+
+    .contact-areas > .areas > .area-list > a {
+        text-align: center;
+        flex-direction: column;
+        margin: 10px 0px;
+    }
+
+
+}
+
+
+
+
+
+
+/* <================= mediya quary ===============> */
+@media  (max-width: 1600px) and (min-width: 1200px) {
+    .contact-sectaion {
+        height: 500px;
+    }
+
+    .container {
+        top: 300px;
+    }
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+/* <================= mediya quary ===============> */
+@media  (max-width: 1200px) and (min-width: 978px){
+
+    .nav .nav-links a {
+        margin: 0px 5px;
+    }
+
+    /* <============== contact form ===========> */
+    .contact-sectaion {
+        height: 500px;
+    }
+
+    .container {
+        top: 250px;
+    }
+
+    /* <=============== contact areas ============> */
+    .contact-areas > .areas {
+        width: 90%;
+    }
+    .contact-areas > .areas > .area-list{
+        width: 48%;
+    }
+}
