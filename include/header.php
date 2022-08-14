@@ -1,4 +1,8 @@
-<header>
+</head>
+
+<body>
+  <!-- <======== header =======> -->
+  <header>
       <!-- <======== navbar =======> -->
       <div class="navigatipnbar">
         <div class="nav">
