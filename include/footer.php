@@ -40,6 +40,28 @@
           </div>
         </div>
 
+        <!-- <============ with in city services =============> -->
+        <div class="container">
+            <h2>At which place in the Delhi, NCR citys do we provide our service</h2>
+            <p>Selecting the best packers and movers before shifting is also a crucial decision the house owner has to take. For moving within the city, the local packers and movers are reliable. Still, for inter-city, the owner has to find out the best packer and mover as it's the question about the safety of their valuable items. The house owner should consider some tricks and tips for searching the trustworthy packers and movers in Delhi.</p>
+          <div class="services-cities-list">
+            <ul>
+              <li>
+                <a href="packers-and-movers-lajpat-nagar.html"> <img src="images/location.svg" alt="Location" loading="lazy"> Packers and Movers in Lajpat Nagar</a>
+                <a href="packers-and-movers-janakpuri.html"> <img src="images/location.svg" alt="Location" loading="lazy"> Packers and Movers in Janakpuri</a>
+              </li>
+              <li>
+                <a href="packers-and-movers-dwarka.html"> <img src="images/location.svg" alt="Location" loading="lazy"> Packers and movers in Dwarka</a>
+                <a href="packers-and-movers-gurgaon-sector-56.html"> <img src="images/location.svg" alt="Location" loading="lazy"> Packers and Movers in Gurgaon Sector 56</a>
+              </li>
+              <li>
+                <a href="packers-and-movers-indirapuram.html"> <img src="images/location.svg" alt="Location" loading="lazy"> Packers and movers in indirapuram</a>
+                <a href="packers-and-movers-bhiwadi.html"> <img src="images/location.svg" alt="Location" loading="lazy"> Packers and movers in Bhiwadi</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+
      
       <!-- <=============== footer================> -->
       <footer>
