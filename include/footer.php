@@ -135,7 +135,7 @@
               <div class="right-link">
                 <!-- <a href="#">Privacy plicy</a> -->
                 <!-- <a href="#">Teram of Use</a> -->
-                <a href="location.html">Site Map</a>
+                <a href="sitemap.xml">Site Map</a>
               </div>
               <p> © 2022 All Rights Reserved</p>
             </div>
