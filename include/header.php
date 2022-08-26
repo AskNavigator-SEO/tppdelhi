@@ -49,6 +49,5 @@
           <img
             src="images/1st_black_line.svg"
             width="100%"
-            height="880px"
             alt="shadow" loading="lazy"
           />
