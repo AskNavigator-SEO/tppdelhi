@@ -215,6 +215,7 @@
   }
   .right form .inputs input:focus, .right form .inputs select:focus{
     border: 1px solid #5A5AF6;
+    outline: none;
     color: #000;
   }
   .right > form > .inputs > input:nth-child(3)[type=number]::-webkit-inner-spin-button {
