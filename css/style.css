@@ -1326,6 +1326,10 @@ footer > .lower-call-btn > a {
     .right form .inputs input, .right form .inputs select {
       font-size: 12px;
     }
+    .right form .inputs input:focus, .right form .inputs select:focus{
+      border: 1px solid #5A5AF6;
+      color: #000;
+    }
     .right form .inputs h2{
       font-size: 20px;
     }
