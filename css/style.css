@@ -1304,7 +1304,9 @@ footer > .lower-call-btn > a {
     height: 50rem;
     /* box-shadow: 0px 11px 119px 3px #dfdfdfc7; */
   }
-
+  .hero_continar > img {
+    height: 950px;
+  }
   .first .Hero_Section .left p {
     font-size: 13px;
     padding: 19px 0px;
