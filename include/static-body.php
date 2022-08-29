@@ -11,17 +11,17 @@
 
               <div class="feature">
                 <p>
-                  <img src="images/chack_icon.png" alt="checkmark" loading="lazy"/><span
+                  <img src="images/chack_icon.png" alt="checkmark icon" loading="lazy"/><span
                     >Lowest Cost Guaranted
                   </span>
                 </p>
                 <p>
-                  <img src="images/chack_icon.png" alt="checkmark" loading="lazy"/><span
+                  <img src="images/chack_icon.png" alt="checkmark icon" loading="lazy"/><span
                     >100% Luggage's Safety
                   </span>
                 </p>
                 <p>
-                  <img src="images/chack_icon.png" alt="checkmark" loading="lazy"/><span
+                  <img src="images/chack_icon.png" alt="checkmark icon" loading="lazy"/><span
                     >Live Tracking
                   </span>
                 </p>
@@ -29,7 +29,7 @@
             </div>
 
             <!-- <===========blackshdow=========> -->
-            <img src="images/2nd_black_line.svg" alt="blackshdow" width="100%" loading="lazy"/>
+            <img src="images/2nd_black_line.svg" alt="background shadow" width="100%" loading="lazy"/>
 
             <!-- <======== right hero side =======> -->
             <div class="right">
@@ -108,7 +108,7 @@
           <h3>Get Low cost quotation and free home visit for any shifting</h3>
           <div class="Why-choose_flex">
             <div class="service_icons">
-              <img src="images/WC_1st.png" alt="Low Cost" loading="lazy"/>
+              <img src="images/WC_1st.png" alt="saving cost icon" loading="lazy"/>
               <h4>Low Cost Guaranteed</h4>
               <p>
                 The quotation given by us are within your budget, which you can easily afford.
@@ -125,14 +125,14 @@
               </p>
             </div>
             <div class="service_icons">
-              <img src="images/WC_3rd.png" alt="Fast Moving" loading="lazy"/>
+              <img src="images/WC_3rd.png" alt="Fast Moving truck icon" loading="lazy"/>
               <h4>Fast Moving Service</h4>
               <p>
                 TPMD (The Packers Movers Delhi) is known for its fast speed service. There is no such word as "delay" in our dictionary.
               </p>
             </div>
             <div class="service_icons">
-              <img src="images/WC_4th.png" alt="Safety" loading="lazy"/>
+              <img src="images/WC_4th.png" alt="Safety user icon" loading="lazy"/>
               <h4>Smooth Experinece</h4>
               <p>
                 We Have a Complete Experienced and Trained Staff. "Our Customers are our Family"..
@@ -154,9 +154,9 @@
           </p>
           <div class="process">
             <div class="process1st">
-              <img src="images/HW_1st.png" alt="quotation" loading="lazy"/>
+              <img src="images/HW_1st.png" alt="packers and movers service" loading="lazy"/>
               <div class="serialNo">
-                <img src="images/HW_no1st.svg" alt="No 1" loading="lazy"/>
+                <img src="images/HW_no1st.svg" alt="No 1 icon" loading="lazy"/>
               </div>
               <h3>Free Pre-Moving Survey</h3>
               <p>
@@ -164,9 +164,9 @@
               </p>
             </div>
             <div class="process2nd">
-              <img src="images/HW_2nd.png" alt="quotation" loading="lazy"/>
+              <img src="images/HW_2nd.png" alt="packing and moving" loading="lazy"/>
               <div class="serialNo">
-                <img src="images/HW_no2nd.svg" alt="No 2" loading="lazy"/>
+                <img src="images/HW_no2nd.svg" alt="No 2 icon" loading="lazy"/>
               </div>
               <h3>Packing of your Goods</h3>
               <p>
@@ -174,9 +174,9 @@
               </p>
             </div>
             <div class="process3rd">
-              <img src="images/HW_3rd.png" alt="quotation" loading="lazy"/>
+              <img src="images/HW_3rd.png" alt="best packers and movers " loading="lazy"/>
               <div class="serialNo">
-                <img src="images/HW_no3rd.svg" alt="No 3" loading="lazy"/>
+                <img src="images/HW_no3rd.svg" alt="No 3 icon" loading="lazy"/>
               </div>
               <h3>Loading of your Goods </h3>
               <p>
@@ -196,21 +196,21 @@
           </p>
           <div class="service-flex">
             <div class="service-box">
-              <img src="images/OS_1st.png" alt="Household" loading="lazy"/>
+              <img src="images/OS_1st.png" alt="best packing and moving" loading="lazy"/>
               <h3>Full Household Shifting</h3>
               <p>
                 To home relocation services, it is necessary to have a lot of knowledge and experience. We are known as one of the affordable and best companie in India.
               </p>
             </div>
             <div class="service-box">
-              <img src="images/OS_2nd.png" alt="Household" loading="lazy"/>
+              <img src="images/OS_2nd.png" alt="car transportation packers and movers" loading="lazy"/>
               <h3>Vehicle Shifting</h3>
               <p>
                 In vehicle transfer, you do not have to fear because TPMD in experienced artisans.
               </p>
             </div>
             <div class="service-box">
-              <img src="images/OS_3rd.png" alt="Household" loading="lazy"/>
+              <img src="images/OS_3rd.png" alt="office shifting packers and movers" loading="lazy"/>
               <h3>Office Shifting</h3>
               <p>
                 We have experienced workers who will pack your office items like computers and other files boxes more safely and properly.
