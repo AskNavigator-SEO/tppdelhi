@@ -192,7 +192,7 @@
         <div class="services">
           <h2>Our Services</h2>
           <p>
-            The Packers Movers Agra Provide Every Single Service Related to Shifting.
+            The Packers Movers <?php echo $city; ?> Provide Every Single Service Related to Shifting.
           </p>
           <div class="service-flex">
             <div class="service-box">
