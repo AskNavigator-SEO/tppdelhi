@@ -135,7 +135,7 @@
               <img src="images/WC_4th.png" alt="Safety user icon" loading="lazy"/>
               <h4>Smooth Experinece</h4>
               <p>
-                We Have a Complete Experienced and Trained Staff. "Our Customers are our Family"..
+                We Have a Complete Experienced and Trained Staff. "Our Customers are our Family".
               </p>
             </div>
           </div>
@@ -150,7 +150,7 @@
           <span class="underline"></span>
           <p>
             To make the task easier, we have divided the process of packing and
-            moving into three steps described below 👇
+            moving into three steps described below
           </p>
           <div class="process">
             <div class="process1st">
