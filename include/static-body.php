@@ -1,4 +1,15 @@
 
+            <!-- <=========== main ==========> -->
+    <main>
+      <!-- <============ first section ==========> -->
+      <section class="first">
+        <div class="hero_continar">
+          <!-- <======== back shadow =======> -->
+          <img
+            src="images/1st_black_line.svg"
+            width="100%"
+            alt="shadow" loading="lazy"
+          />
           <!-- <======== hero section =======> -->
           <div class="Hero_Section">
             <!-- <======== left hero side =======> -->
