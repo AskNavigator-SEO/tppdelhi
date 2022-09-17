@@ -85,7 +85,6 @@
                                 <li><a href="https://thepackersmoversdelhi.com/#vehicle-shift">Vehicle Shifting</a></li>
                                 <li><a href="car-transportation.html">Car Transport</a></li>
                                 <li><a href="bike-transportation.html">Bike Transport</a></li>
-                                <li> <a href="iba-approved-packers-and-movers.html">IBA Approved</a></li>
                             </ul>
                         </div>
                         <div class="footer-link-list">
@@ -96,19 +95,17 @@
                                 <!-- <li><a href="packers-and-movers-charges.html">Cost Calculator </a></li> -->
                             </ul>
                         </div>
-                        <!-- <div class="footer-link-list">
-                            <h3>Resources</h3>
+                        <div class="footer-link-list">
+                            <h3>Useful Links</h3>
                             <ul> 
-                                <li><a href="contact-us.html">Complaint Box</a></li>
-                                <li><a href="packers-and-movers-charges.html">Tools</a></li>
-                                <li><a href="contact-us.html">Customer Reviews</a></li>
+                                <li> <a href="iba-approved-packers-and-movers.html">IBA Approved</a></li>
+                                <li><a href="location.html">Locations</a></li>
                             </ul> 
-                        </div>-->
+                        </div>
                         <div class="footer-link-list">
                             <h3>Company</h3>
                             <ul>
                                 <li><a href="about-us.html">About Company</a></li>
-                                <li><a href="location.html">Locations</a></li>
                                 <!-- <li><a href="contact-us.html">Help</a></li> -->
                                 <li><a href="contact-us.html">Contact Us</a></li>
                             </ul>
