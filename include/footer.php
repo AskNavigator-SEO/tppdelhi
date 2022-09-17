@@ -93,17 +93,17 @@
                             <ul>
                                 <li><a href="#work">How to Work</a></li>
                                 <li><a href="#faq">FAQs</a></li>
-                                <li><a href="packers-and-movers-charges.html">Cost Calculator </a></li>
+                                <!-- <li><a href="packers-and-movers-charges.html">Cost Calculator </a></li> -->
                             </ul>
                         </div>
-                        <div class="footer-link-list">
+                        <!-- <div class="footer-link-list">
                             <h3>Resources</h3>
-                            <ul>
-                                <!-- <li><a href="contact-us.html">Complaint Box</a></li> -->
+                            <ul> 
+                                <li><a href="contact-us.html">Complaint Box</a></li>
                                 <li><a href="packers-and-movers-charges.html">Tools</a></li>
                                 <li><a href="contact-us.html">Customer Reviews</a></li>
-                            </ul>
-                        </div>
+                            </ul> 
+                        </div>-->
                         <div class="footer-link-list">
                             <h3>Company</h3>
                             <ul>

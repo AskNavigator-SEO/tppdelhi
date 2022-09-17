@@ -85,8 +85,8 @@
                   <input type="submit" value="Submit" />
                   <p class="teramandcondition">
                     By Sumbitting this, you agree to the
-                    <span> <a href="#"> privacy policy</a></span> &
-                    <span> <a href="#"> teram and conditions</a></span>
+                    <span> <a href="javascript:void(0)"> privacy policy</a></span> &
+                    <span> <a href="javascript:void(0)"> teram and conditions</a></span>
                   </p>
                 </div>
               </form>
