@@ -1258,6 +1258,7 @@ footer > .lower-call-btn > a {
 }
 .styky_get_btn {
   width: 100%;
+  display: none;
 }
 
 .stikey_container {
