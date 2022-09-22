@@ -3,7 +3,7 @@
       <section class="eleventh" id="cities">
         <div class="container">
             <h2>Cities In Which We Provide Our Service</h2>
-            <p>Selecting the best packers and movers before shifting is also a crucial decision the house owner has to take. For moving within the city, the local packers and movers are reliable. Still, for inter-city, the owner has to find out the best packer and mover as it's the question about the safety of their valuable items. The house owner should consider some tricks and tips for searching the trustworthy packers and movers in Agra.</p>
+            <p>Selecting the best packers and movers before shifting is also a crucial decision the house owner has to take. For moving within the city, the local packers and movers are reliable. Still, for inter-city, the owner has to find out the best packer and mover as it's the question about the safety of their valuable items. The house owner should consider some tricks and tips for searching the trustworthy packers and movers in <?php echo $city; ?>.</p>
           <div class="services-cities-list">
             <ul>
               <li>
