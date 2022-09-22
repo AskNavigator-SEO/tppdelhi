@@ -7,34 +7,34 @@
           <div class="services-cities-list">
             <ul>
               <li>
-                <a href="packers-and-movers-agra.html"> <img src="images/location.svg" alt="Location" loading="lazy"> Packers and movers in Agra</a>
-                <a href="packers-and-movers-bangalore.html"> <img src="images/location.svg" alt="Location" loading="lazy"> Packers and movers in Bangalore</a>
+                <!-- <a href="packers-and-movers-agra.html"> <img src="images/location.svg" alt="Location" loading="lazy"> Packers and movers in Agra</a> -->
+                <!-- <a href="packers-and-movers-bangalore.html"> <img src="images/location.svg" alt="Location" loading="lazy"> Packers and movers in Bangalore</a> -->
+                <!-- <a href="packers-and-movers-coimbatore.html"> <img src="images/location.svg" alt="Location" loading="lazy"> Packers and movers in Coimbatore</a> -->
+                <!-- <a href="packers-and-movers-guwahati.html"> <img src="images/location.svg" alt="Location" loading="lazy"> Packers and movers in Guwahati</a> -->
                 <a href="packers-and-movers-bhopal.html"> <img src="images/location.svg" alt="Location" loading="lazy"> Packers and movers in Bhopal</a>
-                <a href="packers-and-movers-coimbatore.html"> <img src="images/location.svg" alt="Location" loading="lazy"> Packers and movers in Coimbatore</a>
                 <a href="/"> <img src="images/location.svg" alt="Location" loading="lazy"> Packers and movers in Delhi</a>
                 <a href="packers-and-movers-faridabad.html"> <img src="images/location.svg" alt="Location" loading="lazy"> Packers and movers in Faridabad</a>
                 <a href="packers-and-movers-gandhinagar.html"> <img src="/images/location.svg" alt="Location" loading="lazy"> Packers and movers in Gandhinagar</a>
-                <a href="packers-and-movers-guwahati.html"> <img src="images/location.svg" alt="Location" loading="lazy"> Packers and movers in Guwahati</a>
               </li>
               <li>
-                <a href="packers-and-movers-indore.html"> <img src="images/location.svg" alt="Location" loading="lazy"> Packers and movers in Indore</a>
-                <a href="packers-and-movers-jabalpur.html"> <img src="images/location.svg" alt="Location" loading="lazy"> Packers and movers in Jabalpur</a>
+                <!-- <a href="packers-and-movers-indore.html"> <img src="images/location.svg" alt="Location" loading="lazy"> Packers and movers in Indore</a> -->
+                <!-- <a href="packers-and-movers-jabalpur.html"> <img src="images/location.svg" alt="Location" loading="lazy"> Packers and movers in Jabalpur</a> -->
+                <!-- <a href="packers-and-movers-lucknow.html"> <img src="images/location.svg" alt="Location" loading="lazy"> Packers and movers in Luckmow</a> -->
+                <!-- <a href="packers-and-movers-ludhiana.html"> <img src="images/location.svg" alt="Location" loading="lazy"> Packers and movers in Ludhiana</a> -->
+                <!-- <a href="packers-and-movers-nashik.html"> <img src="images/location.svg" alt="Location" loading="lazy"> Packers and movers in Nashik</a> -->
                 <a href="packers-and-movers-jamnagar.html"> <img src="images/location.svg" alt="Location" loading="lazy"> Packers and movers in Jamnagar</a>
-                <a href="packers-and-movers-lucknow.html"> <img src="images/location.svg" alt="Location" loading="lazy"> Packers and movers in Luckmow</a>
-                <a href="packers-and-movers-ludhiana.html"> <img src="images/location.svg" alt="Location" loading="lazy"> Packers and movers in Ludhiana</a>
                 <a href="packers-and-movers-miyapur.html"> <img src="images/location.svg" alt="Location" loading="lazy"> Packers and movers in Miyapur</a>
                 <a href="packers-and-movers-nagpur.html"> <img src="images/location.svg" alt="Location" loading="lazy"> Packers and movers in Nagpur</a>
-                <a href="packers-and-movers-nashik.html"> <img src="images/location.svg" alt="Location" loading="lazy"> Packers and movers in Nashik</a>
+                <a href="packers-and-movers-noida-sector62.html"> <img src="images/location.svg" alt="Location" loading="lazy"> Packers and movers in Noida Sector 62</a>
               </li>
               <li>
-                <a href="packers-and-movers-noida-sector62.html"> <img src="images/location.svg" alt="Location" loading="lazy"> Packers and movers in Noida Sector 62</a>
                 <a href="packers-and-movers-patna.html"> <img src="images/location.svg" alt="Location" loading="lazy"> Packers and movers in Patna</a>
                 <a href="packers-and-movers-pune.html"> <img src="images/location.svg" alt="Location" loading="lazy"> Packers and movers in Pune</a>
-                <a href="packers-and-movers-raipur.html"> <img src="images/location.svg" alt="Location" loading="lazy"> Packers and movers in Raipur</a>
                 <a href="packers-and-movers-rajkot.html"> <img src="images/location.svg" alt="Location" loading="lazy"> Packers and movers in Rajkot</a>
                 <a href="packers-and-movers-surat.html"> <img src="images/location.svg" alt="Location" loading="lazy"> Packers and movers in Surat</a>
-                <a href="packers-and-movers-thane.html"> <img src="images/location.svg" alt="Location" loading="lazy"> Packers and movers in Thane</a>
-                <a href="packers-and-movers-vijaywada.html"> <img src="images/location.svg" alt="Location" loading="lazy"> Packers and movers in Vijaywada</a>
+                <!-- <a href="packers-and-movers-raipur.html"> <img src="images/location.svg" alt="Location" loading="lazy"> Packers and movers in Raipur</a> -->
+                <!-- <a href="packers-and-movers-thane.html"> <img src="images/location.svg" alt="Location" loading="lazy"> Packers and movers in Thane</a> -->
+                <!-- <a href="packers-and-movers-vijaywada.html"> <img src="images/location.svg" alt="Location" loading="lazy"> Packers and movers in Vijaywada</a> -->
               </li>
             </ul>
           </div>
