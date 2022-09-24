@@ -100,6 +100,7 @@
                             <ul> 
                                 <li> <a href="iba-approved-packers-and-movers.html">IBA Approved</a></li>
                                 <li><a href="location.html">Locations</a></li>
+                                <li><a href="blogs.html">Blogs</a></li>
                             </ul> 
                         </div>
                         <div class="footer-link-list">
