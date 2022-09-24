@@ -156,8 +156,14 @@
         <changefreq>weekly</changefreq>
         <priority>.5</priority>
     </url>
-      <url>
+    <url>
         <loc>https://thepackersmoversdelhi.com/blogs/best-packers-and-movers-company.html</loc>
+        <lastmod>2021-11-01</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>.5</priority>
+    </url>
+    <url>
+        <loc>https://thepackersmoversdelhi.com/blogs.html</loc>
         <lastmod>2021-11-01</lastmod>
         <changefreq>weekly</changefreq>
         <priority>.5</priority>
