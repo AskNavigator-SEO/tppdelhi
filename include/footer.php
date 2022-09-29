@@ -3,7 +3,7 @@
       <section class="eleventh" id="cities">
         <div class="container">
             <h2>Cities In Which We Provide Our Service</h2>
-            <p>Selecting the best packers and movers before shifting is also a crucial decision the house owner has to take. For moving within the city, the local packers and movers are reliable. Still, for inter-city, the owner has to find out the best packer and mover as it's the question about the safety of their valuable items. The house owner should consider some tricks and tips for searching the trustworthy packers and movers in <?php echo $city; ?>.</p>
+            <p>TPMD has been a quality packers and movers service provider across India. Our fast service, good quality packing, well-experienced staff and affordable prices have made 100+ satisfied and happy customers per month. So, we have decided to expand our reliable and affordable to every corner of india. Whether it’s a local moving, interstate moving or intercity moving, We have mastered the art of delivering happiness at your desired destination.</p>
           <div class="services-cities-list">
             <ul>
               <li>
@@ -42,8 +42,8 @@
 
         <!-- <============ with in city services =============> -->
         <div class="container">
-            <h2>At which place in the Delhi, NCR citys do we provide our service</h2>
-            <p>Selecting the best packers and movers before shifting is also a crucial decision the house owner has to take. For moving within the city, the local packers and movers are reliable. Still, for inter-city, the owner has to find out the best packer and mover as it's the question about the safety of their valuable items. The house owner should consider some tricks and tips for searching the trustworthy packers and movers in Delhi.</p>
+            <h2>Our service expansion in Delhi-NCR</h2>
+            <p>Delhi is a beautiful multi-culture capital of India. With diverse ethnicities and a startup ecosystem, it is an attractive place for economic opportunities and a stable lifestyle. Many people are drawn to its development and well-being. TPMD have also made it easy to shift in or out of Delhi. We have a presence in various parts of Delhi, where we provide affordable services.</p>
           <div class="services-cities-list">
             <ul>
               <li>

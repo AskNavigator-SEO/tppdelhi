@@ -146,7 +146,7 @@
               <img src="images/WC_4th.png" alt="Safety user icon" loading="lazy"/>
               <h4>Well-Experienced Staff</h4>
               <p>
-                The secret of our quality and fast-moving service is our well-experienced staff. With the experience of 647+ moving, Our staff is very professional and skilled in their work.
+                The secret of our quality and fast-moving service is our well-experienced staff. With the experience of 107+ moving per month, Our staff is very professional and skilled in their work.
               </p>
             </div>
           </div>
