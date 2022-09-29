@@ -211,7 +211,7 @@
               <p>
                 Our household shifting includes survey, Careful full packing & loading arrangements, Quick transportation and unloading.
                 <br>
-                We provide household shifting of 1BHK, 2BHK, 3BHK, Housing apartments, Urban Streets, and Mini-town houses.
+                The Packers movers Delhi can do shifting of 1BHK, 2BHK, 3BHK, Housing apartments, Urban Streets, and Mini-town houses.
               </p> 
             </div>
             <div class="service-box">
