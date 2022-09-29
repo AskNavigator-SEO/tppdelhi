@@ -213,7 +213,7 @@
                 <br>
                 The Packers movers Delhi can do shifting of 1BHK, 2BHK, 3BHK, Housing apartments, Urban Streets, and Mini-town houses.
               </p> 
-            </div>
+            </div> 
             <div class="service-box">
               <img src="images/OS_2nd.png" alt="car transportation packers and movers" loading="lazy"/>
               <h3>Vehicle Shifting</h3>
