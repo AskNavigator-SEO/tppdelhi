@@ -116,7 +116,7 @@
         <img src="images/Background_why-choose.svg" alt="backgraund" loading="lazy"/>
         <div class="Why-choose">
           <h2>Why Choose Us</h2>
-          <h3>The Packers movers Delhi offers a vast number of services. We are well equipped with quality services and years of experience. Our exceptional factors made us preferred moving Company over others, such as</h3>
+          <h3>We are well equipped with quality services and years of experience. Our exceptional factors made us preferred moving Company over others.</h3>
           <div class="Why-choose_flex">
             <div class="service_icons">
               <img src="images/WC_1st.png" alt="saving cost icon" loading="lazy"/>
