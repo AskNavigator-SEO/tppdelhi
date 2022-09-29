@@ -212,7 +212,7 @@
                 Our household shifting includes survey, Careful full packing & loading arrangements, Quick transportation and unloading.
                 <br>
                 We provide household shifting of 1BHK, 2BHK, 3BHK, Housing apartments, Urban Streets, and Mini-town houses.
-              </p>
+              </p> 
             </div>
             <div class="service-box">
               <img src="images/OS_2nd.png" alt="car transportation packers and movers" loading="lazy"/>
