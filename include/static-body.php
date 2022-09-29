@@ -209,22 +209,27 @@
               <img src="images/OS_1st.png" alt="best packing and moving" loading="lazy"/>
               <h3>Full Household Shifting</h3>
               <p>
-              Our customized and convenient household shifting includes On-site estimation, Careful full packing & loading arrangements, Quick transportation and unloading. We provide household shifting of 1BHK, 2BHK, 3BHK, Housing apartments, Urban Streets, and Mini-town houses.
-
+                Our household shifting includes survey, Careful full packing & loading arrangements, Quick transportation and unloading.
+                <br>
+                We provide household shifting of 1BHK, 2BHK, 3BHK, Housing apartments, Urban Streets, and Mini-town houses.
               </p>
             </div>
             <div class="service-box">
               <img src="images/OS_2nd.png" alt="car transportation packers and movers" loading="lazy"/>
               <h3>Vehicle Shifting</h3>
               <p>
-                The Packers movers Delhi can transfer any vehicle such as Bike, Car, Tractor, Scooter, etc. our team can reach across villages, towns, districts, Cities, and states. Vehicle transport includes vehicle inspection, necessary precaution measures, and faster moving.
+                The Packers movers Delhi can do shifting of vehicles such as Bike, Car, Tractor, Scooter, etc.
+                <br>
+                our team can reach across villages, towns, districts, Cities, and states.
               </p>
             </div>
             <div class="service-box">
               <img src="images/OS_3rd.png" alt="office shifting packers and movers" loading="lazy"/>
               <h3>Office Shifting</h3>
               <p>
-              Our secure office shifting includes inspection of office and disassembling electronic goods like printers, AC, water coolers, TV, etc. The Shifting of Small shops, Early startups, large Organizations, and server rooms is done by The packers movers delhi.
+                Our office shifting includes inspection of office and disassembling electronic goods like printers, AC, water coolers, TV, etc.
+                <br>
+                The Packers movers Delhi can do Shifting of Small shops, Early startups, large Organizations, and server rooms
               </p>
             </div>
           </div>
