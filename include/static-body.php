@@ -132,14 +132,14 @@
               />
               <h4>100% Luggage's Safety</h4>
               <p>
-                We use premium quality packaging material, that's why, your luggage will be more safe. And there is no chance of item broken or damage.
+              The packers mover delhi are experts in developing the packing materials to ensure 100% safety. We have designed carton boxes to protect your household from scratch and crack.
               </p>
             </div>
             <div class="service_icons">
               <img src="images/WC_3rd.png" alt="Fast Moving truck icon" loading="lazy"/>
               <h4>Fast Moving Service</h4>
               <p>
-                TPMD (The Packers Movers Delhi) is known for its fast speed service. There is no such word as "delay" in our dictionary.
+              If you are looking for a punctual company with Fast moving service, The packers movers delhi is here for you. It is not our ethics to delay your moving. We respect your time as you do.
               </p>
             </div>
             <div class="service_icons">
