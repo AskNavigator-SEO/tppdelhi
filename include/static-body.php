@@ -144,9 +144,9 @@
             </div>
             <div class="service_icons">
               <img src="images/WC_4th.png" alt="Safety user icon" loading="lazy"/>
-              <h4>Smooth Experinece</h4>
+              <h4>Well-Experienced Staff</h4>
               <p>
-                We Have a Complete Experienced and Trained Staff. "Our Customers are our Family".
+                The secret of our quality and fast-moving service is our well-experienced staff. With the experience of 647+ moving, Our staff is very professional and skilled in their work.
               </p>
             </div>
           </div>
