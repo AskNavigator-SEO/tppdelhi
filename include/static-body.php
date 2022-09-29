@@ -178,9 +178,9 @@
               <div class="serialNo">
                 <img src="images/HW_no2nd.svg" alt="No 2 icon" loading="lazy"/>
               </div>
-              <h3>Packing of your Goods</h3>
+              <h3>Packing & Loading of Goods</h3>
               <p>
-                After that, your all items will be properly packed with best quality packing material. Our Staff is fully Experienced.
+                Our Staff will arrive 2 hours earlier on the decided moving day. They will pack your goods carefully, load it on the truck, and deliver it to your destination.
               </p>
             </div>
             <div class="process3rd">
@@ -188,9 +188,9 @@
               <div class="serialNo">
                 <img src="images/HW_no3rd.svg" alt="No 3 icon" loading="lazy"/>
               </div>
-              <h3>Loading of your Goods </h3>
+              <h3>Unloading & Unpacking of Goods</h3>
               <p>
-                Finally, Your all boxes will be count and then load to the Vehicle. And After this process, Luggage will reach you on your destination.
+                After reaching your destination on time, our team will unload and unpack your household goods. That's how our experienced team will pull off moving quickly.
               </p>
             </div>
           </div>
@@ -202,14 +202,15 @@
         <div class="services">
           <h2>Our Services</h2>
           <p>
-            The Packers Movers <?php echo $city; ?> Provide Every Single Service Related to Shifting.
+            TPMD is offering various moving services at affordable prices. We are determined to become helpful for every moving requirement.
           </p>
           <div class="service-flex">
             <div class="service-box">
               <img src="images/OS_1st.png" alt="best packing and moving" loading="lazy"/>
               <h3>Full Household Shifting</h3>
               <p>
-                To home relocation services, it is necessary to have a lot of knowledge and experience. We are known as one of the affordable and best companie in India.
+              Our customized and convenient household shifting includes On-site estimation, Quality packing material, Careful full packing & loading arrangements,Quick transportation and unloading. We provide household shifting of 1BHK, 2BHK, 3BHK, Housing apartments, Urban Streets, and Mini-town houses.
+
               </p>
             </div>
             <div class="service-box">
