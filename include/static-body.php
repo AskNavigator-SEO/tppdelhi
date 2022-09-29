@@ -157,11 +157,10 @@
       <section class="threed" id="work">
         <div class="threed_section">
           <img src="images/Background_how-work.svg" alt="backgrand" loading="lazy"/>
-          <h2>How we Work</h2>
+          <h2>How do Packers Movers Works in Delhi</h2>
           <span class="underline"></span>
           <p>
-            To make the task easier, we have divided the process of packing and
-            moving into three steps described below
+            The Packers Movers Delhi has a standard working process. We are a professional moving company and take our services very Carefully.
           </p>
           <div class="process">
             <div class="process1st">
@@ -171,7 +170,7 @@
               </div>
               <h3>Free Pre-Moving Survey</h3>
               <p>
-                First of All, Our team member will meet you and note down your complete luggage. and provide you the complete quotation includes all charges & taxes
+                When you finalize a moving deal, our supervisor will do an inspection and Quality Check of your moving goods. They will suggest any precautions if needed.
               </p>
             </div>
             <div class="process2nd">
