@@ -14,7 +14,7 @@
           <div class="Hero_Section">
             <!-- <======== left hero side =======> -->
             <div class="left">
-              <h1>Book Best Packers and Movers in <?php echo $city; ?></h1>
+              <h1>Hire Best Reliable Packers and Movers in <?php echo $city; ?></h1>
               <p>
                 Shift your lovely Home or office with us to get fast delivery
                 and 100% Luggage's safety at Lowest Price.
@@ -116,13 +116,13 @@
         <img src="images/Background_why-choose.svg" alt="backgraund" loading="lazy"/>
         <div class="Why-choose">
           <h2>Why Choose Us</h2>
-          <h3>Get Low cost quotation and free home visit for any shifting</h3>
+          <h3>The Packers movers Delhi offers a vast number of services. We are well equipped with quality services and years of experience. Our exceptional factors made us preferred moving Company over others, such as</h3>
           <div class="Why-choose_flex">
             <div class="service_icons">
               <img src="images/WC_1st.png" alt="saving cost icon" loading="lazy"/>
-              <h4>Low Cost Guaranteed</h4>
+              <h4>Low Cost Guarantee</h4>
               <p>
-                The quotation given by us are within your budget, which you can easily afford.
+              You don't have to go for an expensive moving service. It is our commitment to offer a low-cost guarantee. We are aimed at reaching every customer through affordability.
               </p>
             </div>
             <div class="service_icons">
