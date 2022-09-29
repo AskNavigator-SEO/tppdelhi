@@ -209,7 +209,7 @@
               <img src="images/OS_1st.png" alt="best packing and moving" loading="lazy"/>
               <h3>Full Household Shifting</h3>
               <p>
-              Our customized and convenient household shifting includes On-site estimation, Quality packing material, Careful full packing & loading arrangements,Quick transportation and unloading. We provide household shifting of 1BHK, 2BHK, 3BHK, Housing apartments, Urban Streets, and Mini-town houses.
+              Our customized and convenient household shifting includes On-site estimation, Careful full packing & loading arrangements, Quick transportation and unloading. We provide household shifting of 1BHK, 2BHK, 3BHK, Housing apartments, Urban Streets, and Mini-town houses.
 
               </p>
             </div>
@@ -217,14 +217,14 @@
               <img src="images/OS_2nd.png" alt="car transportation packers and movers" loading="lazy"/>
               <h3>Vehicle Shifting</h3>
               <p>
-                In vehicle transfer, you do not have to fear because TPMD in experienced artisans.
+                The Packers movers Delhi can transfer any vehicle such as Bike, Car, Tractor, Scooter, etc. our team can reach across villages, towns, districts, Cities, and states. Vehicle transport includes vehicle inspection, necessary precaution measures, and faster moving.
               </p>
             </div>
             <div class="service-box">
               <img src="images/OS_3rd.png" alt="office shifting packers and movers" loading="lazy"/>
               <h3>Office Shifting</h3>
               <p>
-                We have experienced workers who will pack your office items like computers and other files boxes more safely and properly.
+              Our secure office shifting includes inspection of office and disassembling electronic goods like printers, AC, water coolers, TV, etc. The Shifting of Small shops, Early startups, large Organizations, and server rooms is done by The packers movers delhi.
               </p>
             </div>
           </div>
