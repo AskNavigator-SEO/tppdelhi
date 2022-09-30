@@ -172,6 +172,8 @@
     align-items: center;
     display: flex;
     padding: 11px 32px;
+    max-width: 312px;
+    width: 100%;
   }
   .feature p:nth-child(3){
     padding: 17px 27px 20px 27px;
