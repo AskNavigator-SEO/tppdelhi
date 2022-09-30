@@ -2046,12 +2046,11 @@ body::-webkit-scrollbar {
     
     /* <===== feature box======> */
     .feature {
-      max-width: 650px;
-      width: 100%;
+      width: 650px;
     }
     .feature p {
       padding: 21px 32px;
-      max-width: 300px;
+      max-width: 312px;
       width: 100%;
     }
 
