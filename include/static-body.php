@@ -23,14 +23,22 @@
               <div class="feature">
                 <p>
                   <img src="images/chack_icon.png" alt="checkmark icon" loading="lazy"/><span
+                    >Free Quotation
+                  </span>
+                </p>
+
+                <p>
+                  <img src="images/chack_icon.png" alt="checkmark icon" loading="lazy"/><span
                     >Lowest Cost Guaranted
                   </span>
                 </p>
+
                 <p>
                   <img src="images/chack_icon.png" alt="checkmark icon" loading="lazy"/><span
                     >100% Luggage's Safety
                   </span>
                 </p>
+
                 <p>
                   <img src="images/chack_icon.png" alt="checkmark icon" loading="lazy"/><span
                     >Live Tracking
