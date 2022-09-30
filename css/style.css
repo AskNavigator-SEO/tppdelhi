@@ -2045,8 +2045,14 @@ body::-webkit-scrollbar {
     }
     
     /* <===== feature box======> */
+    .feature {
+      max-width: 650px;
+      width: 100%;
+    }
     .feature p {
-      padding: 21px 32px ;
+      padding: 21px 32px;
+      max-width: 300px;
+      width: 100%;
     }
 
     /* .feature p:nth-child(3){
