@@ -122,7 +122,8 @@
               <img src="images/WC_1st.png" alt="saving cost icon" loading="lazy"/>
               <h4>Low Cost Guarantee</h4>
               <p>
-              You don't have to go for an expensive moving service. It is our commitment to offer a low-cost guarantee. We are aimed at reaching every customer through affordability.
+                <!-- You don't have to go for an expensive moving service.  -->
+                It is our commitment to offer a low-cost guarantee. We are aimed at reaching every customer through affordability.
               </p>
             </div>
             <div class="service_icons">
@@ -132,21 +133,24 @@
               />
               <h4>100% Luggage's Safety</h4>
               <p>
-              The packers mover delhi are experts in developing the packing materials to ensure 100% safety. We have designed carton boxes to protect your household from scratch and crack.
+                The packers mover delhi are experts in developing the packing materials to ensure 100% safety.
+                <!-- We have designed carton boxes to protect your household from scratch and crack. -->
               </p>
             </div>
             <div class="service_icons">
               <img src="images/WC_3rd.png" alt="Fast Moving truck icon" loading="lazy"/>
               <h4>Fast Moving Service</h4>
               <p>
-              If you are looking for a punctual company with Fast moving service, The packers movers delhi is here for you. It is not our ethics to delay your moving. We respect your time as you do.
+                If you are looking for a Fast moving service, The packers movers Delhi is here for you. It is not our ethics to delay your move. We respect your time as you do.
+                <!-- If you are looking for a punctual company with Fast moving service, The packers movers delhi is here for you. It is not our ethics to delay your moving. We  respect your time as you do. -->
               </p>
             </div>
             <div class="service_icons">
               <img src="images/WC_4th.png" alt="Safety user icon" loading="lazy"/>
               <h4>Well-Experienced Staff</h4>
               <p>
-                The secret of our quality and fast-moving service is our well-experienced staff. With the experience of 107+ moving per month, Our staff is very professional and skilled in their work.
+                The secret of our quality and fast-moving service is our well-experienced staff. With the experience of 107+ moving per month, 
+                <!-- Our staff is very professional and skilled in their work. -->
               </p>
             </div>
           </div>
@@ -209,16 +213,16 @@
               <img src="images/OS_1st.png" alt="best packing and moving" loading="lazy"/>
               <h3>Full Household Shifting</h3>
               <p>
-                Our household shifting includes survey, Careful full packing & loading arrangements, Quick transportation and unloading.
+                Our household shifting includes survey, Careful packing & loading arrangements, Quick transportation and unloading.
                 <br>
-                The Packers movers Delhi can do shifting of 1BHK, 2BHK, 3BHK, Housing apartments, Urban Streets, and Mini-town houses.
+                The Packers movers Delhi provide shifting of 1BHK, 2BHK, 3BHK, Housing apartments, Urban Streets, and Mini-town houses.
               </p> 
             </div> 
             <div class="service-box">
               <img src="images/OS_2nd.png" alt="car transportation packers and movers" loading="lazy"/>
               <h3>Vehicle Shifting</h3>
               <p>
-                The Packers movers Delhi can do shifting of vehicles such as Bike, Car, Tractor, Scooter, etc.
+                The Packers movers Delhi provide shifting of vehicles such as Bike, Car, Tractor, Scooter, etc.
                 <br>
                 our team can reach across villages, towns, districts, Cities, and states.
               </p>
@@ -229,7 +233,7 @@
               <p>
                 Our office shifting includes inspection of office and disassembling electronic goods like printers, AC, water coolers, TV, etc.
                 <br>
-                The Packers movers Delhi can do Shifting of Small shops, Early startups, large Organizations, and server rooms
+                The Packers movers Delhi provide Shifting of Small shops, Early startups, large Organizations, and server rooms
               </p>
             </div>
           </div>
