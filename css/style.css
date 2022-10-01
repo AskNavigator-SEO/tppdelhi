@@ -14,6 +14,10 @@
     -webkit-tap-highlight-color: transparent;
     font-family: 'Poppins';
   }
+  ::selection {
+    color: #5A5AF6;
+    background: transparent;
+  }
   p{
     line-height: 23px;
     word-spacing: 2px;
