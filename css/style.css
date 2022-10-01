@@ -274,7 +274,7 @@
 
   .custom_call{
     position: fixed;
-    bottom: 2%;
+    bottom: 3%;
     z-index: 1;
     right: 5px;
   }
@@ -294,9 +294,9 @@
     overflow: hidden;
       background: #5A5AF6;
     position: relative;
-      right: 7%;
-      width: 40px;
-      height: 40px;
+      right: 25%;
+      width: 50px;
+      height: 50px;
       margin: 0 auto;
       border-radius: 100%;
       animation: play 2s ease infinite;
