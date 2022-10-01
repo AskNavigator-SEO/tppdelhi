@@ -15,8 +15,8 @@
     font-family: 'Poppins';
   }
   ::selection {
-    color: #5A5AF6;
-    background: transparent;
+    color: #ffffff;
+    background: #5A5AF6;
   }
   p{
     line-height: 23px;
