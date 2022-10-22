@@ -141,7 +141,7 @@
               />
               <h4>100% Luggage's Safety</h4>
               <p>
-                The packers mover delhi are experts in developing the packing materials to ensure 100% safety.
+                The packers mover <?php echo $city; ?> are experts in developing the packing materials to ensure 100% safety.
                 <!-- We have designed carton boxes to protect your household from scratch and crack. -->
               </p>
             </div>
@@ -149,7 +149,7 @@
               <img src="images/WC_3rd.png" alt="Fast Moving truck icon" loading="lazy"/>
               <h4>Fast Moving Service</h4>
               <p>
-                If you are looking for a Fast moving service, The packers movers Delhi is here for you. It is not our ethics to delay your move. We respect your time as you do.
+                If you are looking for a Fast moving service, The packers movers <?php echo $city; ?> is here for you. It is not our ethics to delay your move. We respect your time as you do.
                 <!-- If you are looking for a punctual company with Fast moving service, The packers movers delhi is here for you. It is not our ethics to delay your moving. We  respect your time as you do. -->
               </p>
             </div>
@@ -169,10 +169,10 @@
       <section class="threed" id="work">
         <div class="threed_section">
           <img src="images/Background_how-work.svg" alt="backgrand" loading="lazy"/>
-          <h2>How do Packers Movers Works in Delhi</h2>
+          <h2>How do Packers Movers Works in <?php echo $city; ?></h2>
           <span class="underline"></span>
           <p>
-            The Packers Movers Delhi has a standard working process. We are a professional moving company and take our services very Carefully.
+            The Packers Movers <?php echo $city; ?> has a standard working process. We are a professional moving company and take our services very Carefully.
           </p>
           <div class="process">
             <div class="process1st">
@@ -223,14 +223,14 @@
               <p>
                 Our household shifting includes survey, Careful packing & loading arrangements, Quick transportation and unloading.
                 <br>
-                The Packers movers Delhi provide shifting of 1BHK, 2BHK, 3BHK, Housing apartments, Urban Streets, and Mini-town houses.
+                The Packers movers <?php echo $city; ?> provide shifting of 1BHK, 2BHK, 3BHK, Housing apartments, Urban Streets, and Mini-town houses.
               </p> 
             </div> 
             <div class="service-box">
               <img src="images/OS_2nd.png" alt="car transportation packers and movers" loading="lazy"/>
               <h3>Vehicle Shifting</h3>
               <p>
-                The Packers movers Delhi provide shifting of vehicles such as Bike, Car, Tractor, Scooter, etc.
+                The Packers movers <?php echo $city; ?> provide shifting of vehicles such as Bike, Car, Tractor, Scooter, etc.
                 <br>
                 our team can reach across villages, towns, districts, Cities, and states.
               </p>
@@ -241,7 +241,7 @@
               <p>
                 Our office shifting includes inspection of office and disassembling electronic goods like printers, AC, water coolers, TV, etc.
                 <br>
-                The Packers movers Delhi provide Shifting of Small shops, Early startups, large Organizations, and server rooms
+                The Packers movers <?php echo $city; ?> provide Shifting of Small shops, Early startups, large Organizations, and server rooms
               </p>
             </div>
           </div>
