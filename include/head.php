@@ -4,9 +4,9 @@
     <meta name="robots" content="index, follow">
     
     <link rel=icon type=image/x-icon href="images/logo.png">
-    <link rel="stylesheet" href="css/style.css?v=0.2.9" />
-    <link rel="stylesheet" href="css/location.css?v=0.0.9" />
-    <link rel="stylesheet" href="css/about.css?v=0.0.9" />
+    <link rel="stylesheet" href="css/style.css?v=0.0.5" />
+    <link rel="stylesheet" href="css/location.css?v=0.0.5" />
+    <link rel="stylesheet" href="css/about.css?v=0.0.5" />
     <link rel=icon type=image/x-icon href="images/logo.png">
 
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8107523551401412"
