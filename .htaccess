@@ -4,7 +4,7 @@ RewriteBase /
 RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
 RewriteRule ^(.*)$ https://%1$1 [R=301 ,L]
 
-ErrorDocument 404 https://greenbaypackerslockerroom.com/
+ErrorDocument 404 https://thepackersmoversdelhi.com/
 Options All -Indexes
 
 RewriteCond %{REQUEST_FILENAME} !-f
