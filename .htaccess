@@ -1,4 +1,4 @@
-RewriteEngine On0
+RewriteEngine On
 
 RewriteBase / 
 RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
