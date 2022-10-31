@@ -1,9 +1,8 @@
-RewriteEngine On
+RewriteEngine On0
 
 RewriteBase / 
-RewriteCond %{HTTP_HOST} ^thepackersmoversdelhi\.com [NC]
-RewriteCond %{SERVER_PORT} 80
-RewriteRule ^(.*)$ https://www.thepackersmoversdelhi.com/$1 [R,L]
+RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
+RewriteRule ^(.*)$ https://%1$1 [R=301 ,L]
 
 ErrorDocument 404 https://thepackersmoversdelhi.com/
 Options All -Indexes
@@ -17,4 +16,3 @@ RewriteCond %{REQUEST_URI} !(\.[a-zA-Z0-9]{1,5}|/)$
 RewriteRule (.*)$ /$1/ [R=301,L]
 
 AddHandler application/x-httpd-ea-php74 .html .htm
-
