@@ -15,6 +15,7 @@
                 <a href="/"> <img src="images/location.svg" alt="Location" loading="lazy"> Packers and movers in Delhi</a>
                 <a href="packers-and-movers-faridabad.html"> <img src="images/location.svg" alt="Location" loading="lazy"> Packers and movers in Faridabad</a>
                 <a href="packers-and-movers-gandhinagar.html"> <img src="/images/location.svg" alt="Location" loading="lazy"> Packers and movers in Gandhinagar</a>
+                <a href="http://www.shiftingway.com/"> <img src="/images/location.svg" alt="Location" loading="lazy">Packers and movers in hisar</a>
               </li>
               <li>
                 <!-- <a href="packers-and-movers-indore.html"> <img src="images/location.svg" alt="Location" loading="lazy"> Packers and movers in Indore</a> -->
