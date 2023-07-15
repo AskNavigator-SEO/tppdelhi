@@ -7,7 +7,6 @@ RewriteEngine On
 	RewriteRule (.*) https://thepackersmoversdelhi.com/$1 [L,R=301]
 </IfModule>
 
-ErrorDocument 404 https://thepackersmoversdelhi.com/
 Options All -Indexes
 
 RewriteCond %{REQUEST_FILENAME} !-f
