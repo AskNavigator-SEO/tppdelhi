@@ -27,6 +27,7 @@
                 <a href="packers-and-movers-miyapur.html"> <img src="images/location.svg" alt="Location" loading="lazy"> Packers and movers in Miyapur</a>
                 <a href="packers-and-movers-nagpur.html"> <img src="images/location.svg" alt="Location" loading="lazy"> Packers and movers in Nagpur</a>
                 <a href="packers-and-movers-noida-sector62.html"> <img src="images/location.svg" alt="Location" loading="lazy"> Packers and movers in Noida Sector 62</a>
+                <a href="packers-and-movers-hisar-cantt.html"> <img src="images/location.svg" alt="Location" loading="lazy"> Packers and movers Hisar Cantt</a>
               </li>
               <li>
                 <a href="packers-and-movers-patna.html"> <img src="images/location.svg" alt="Location" loading="lazy"> Packers and movers in Patna</a>
