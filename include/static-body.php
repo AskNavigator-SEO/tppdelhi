@@ -52,52 +52,32 @@
 
             <!-- <======== right hero side =======> -->
             <div class="right">
-              <form action="mail.php" method="post">
-                <div class="inputs">
-                  <h2>Get Lowest rate for you moving</h2>
-                  <input
-                    type="name"
-                    name="name"
-                    id="name"
-                    placeholder="Name"
-                    required
-                  />
-                  <input
-                    type="number"
-                    name="PhoneNumber"
-                    id="PhoneNumber"
-                    placeholder="Mobile Number"
-                    pattern="[0-9]{10}"
-                  />
-                  <select name="whatmoving" id="movingitem">
-                    <option value="Selectitems">
-                      -- What you want to move --
-                    </option>
-                    <option value="Household">Household</option>
-                    <option value="Office">Office</option>
-                    <option value="Vehicle">Vehicle</option>
-                    <option value="Someitem">Someitem</option>
-                  </select>
-                  <input
-                    type="text"
-                    name="reloctionFrom"
-                    id="reloctionFrom"
-                    placeholder="Relocation From"
-                  />
-                  <input
-                    type="text"
-                    name="reloctionto"
-                    id="reloctionto"
-                    placeholder="Relocation To"
-                  />
-                  <input type="submit" value="Get Free Quote" />
-                  <p class="teramandcondition">
-                    By Sumbitting this, you agree to the
-                    <span> <a href="javascript:void(0)"> privacy policy</a></span> &
-                    <span> <a href="javascript:void(0)"> teram and conditions</a></span>
-                  </p>
-                </div>
-              </form>
+            <form autocomplete="off">
+                            <div class="inputs">
+                                <h2>Get Lowest rate for you moving</h2>
+                                <input type="name" name="name" id="name" placeholder="Name" required />
+                                <input type="number" name="PhoneNumber" id="PhoneNumber" placeholder="Mobile Number"
+                                    pattern="[0-9]{10}" />
+                                <select name="whatmoving" id="movingitem">
+                                    <option value="Selectitems">
+                                        -- What you want to move --
+                                    </option>
+                                    <option value="Household">Household</option>
+                                    <option value="Office">Office</option>
+                                    <option value="Vehicle">Vehicle</option>
+                                    <option value="Someitem">Someitem</option>
+                                </select>
+                                <input type="text" name="pickUp" id="pickUp" value="<?php echo $city; ?>"
+                                    placeholder="Pick Up Location" />
+                                <input type="text" name="reloctionto" id="reloctionto" placeholder="Drop Location" />
+                                <input type="submit" onclick="goWhatapp()" value="Get Free Quote" />
+                                <p class="teramandcondition">
+                                    By Sumbitting this, you agree to the
+                                    <span> <a href="javascript:void(0)"> privacy policy</a></span> &
+                                    <span> <a href="javascript:void(0)"> teram and conditions</a></span>
+                                </p>
+                            </div>
+                        </form>
             </div>
           </div>
         </div>

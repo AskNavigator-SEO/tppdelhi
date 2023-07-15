@@ -170,6 +170,25 @@
       }
       </script>
 
+      function goWhatapp() {
+            let name = document.getElementById("name").value;
+            let number = document.getElementById("PhoneNumber").value;
+            let picUp = document.getElementById("pickUp").value;
+            let dropPoint = document.getElementById("reloctionto").value;
+            let selectItems = document.getElementById("movingitem").value;
+            // let data3 = document.getElementById("data3").value;
+
+            let url = "https://wa.me/9817326797?text="
+                + "*Name:* " + name + "%0a"
+                + "*Phone:* " + number + "%0a"
+                + "*Pick Up:* " + picUp + "%0a"
+                + "*Drop:*  " + dropPoint + "%0a"
+                + "*Type:* " + selectItems + "%0a"
+
+            window.open(url, '_blank').focus();
+
+        }
+        
   </body>
 
   <script src="js/script.js"></script>
