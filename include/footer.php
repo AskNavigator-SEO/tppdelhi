@@ -169,8 +169,8 @@
         ]
       }
       </script>
-
-      function goWhatapp() {
+      <script>
+          function goWhatapp() {
             let name = document.getElementById("name").value;
             let number = document.getElementById("PhoneNumber").value;
             let picUp = document.getElementById("pickUp").value;
@@ -188,6 +188,8 @@
             window.open(url, '_blank').focus();
 
         }
+      </script>
+      
         
   </body>
 
