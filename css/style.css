@@ -1584,11 +1584,11 @@ body::-webkit-scrollbar {
 
     /* <======= first section =====> */
     .right form {
-      padding: 27px 30px 45px 30px;
+      padding: 27px 15px 45px 15px;
       BOX-SHADOW: 0px 1px 5px 1px #b1b1b175;
     }
     .right, .left{
-      width: 90%;
+      width: 98%;
       margin: auto;
     }
     .right form .inputs input, .right form .inputs select {

@@ -4,7 +4,7 @@
     <meta name="robots" content="index, follow">
     
     <link rel=icon type=image/x-icon href="images/logo.png">
-    <link rel="stylesheet" href="css/style.css?v=0.2.4" />
+    <link rel="stylesheet" href="css/style.css?v=0.2.5" />
     <link rel="stylesheet" href="css/location.css?v=0.0.7" />
     <link rel="stylesheet" href="css/about.css?v=0.0.7" />
     <link rel=icon type=image/x-icon href="images/logo.png">
