@@ -5,22 +5,23 @@
 <head>
     <meta name="description"
         content="Our professional Packers and Movers service in Hisar Cantt ensures a smooth, stress-free shifting experience. Get A Free Quote Today!">
-    <meta name="keywords" content="packers movers hisar cantt, packers and movers in hisar cantt, packers and movers hisar cantt ">
+    <meta name="keywords"
+        content="packers movers hisar cantt, packers and movers in hisar cantt, packers and movers hisar cantt ">
     <script>
         function goWhatapp() {
             let name = document.getElementById("name").value;
             let number = document.getElementById("PhoneNumber").value;
-            let picUp = document.getElementById("reloctionFrom").value;
+            let picUp = document.getElementById("pickUp").value;
             let dropPoint = document.getElementById("reloctionto").value;
             let selectItems = document.getElementById("movingitem").value;
             // let data3 = document.getElementById("data3").value;
 
             let url = "https://wa.me/9817326797?text="
                 + "*Name:* " + name + "%0a"
-                + "*Phone:* " + PhoneNumber + "%0a"
-                + "*Pick Up:* " + reloctionFrom + "%0a"
-                + "*Drop:*  " + reloctionto + "%0a"
-                + "*Type:* " + movingitem + "%0a"
+                + "*Phone:* " + number + "%0a"
+                + "*Pick Up:* " + picUp + "%0a"
+                + "*Drop:*  " + dropPoint + "%0a"
+                + "*Type:* " + selectItems + "%0a"
 
             window.open(url, '_blank').focus();
 
@@ -28,7 +29,7 @@
     </script>
     <title>Best Packers and Movers in Hisar Cantt - Free Quotation</title>
     <link rel="canonical" href="https://thepackersmoversdelhi.com/packers-and-movers-noida-sector62.html" />
-   
+
     <?php include'include/head.php'; ?>
     <?php include'include/header.php'; ?>
 
@@ -48,7 +49,8 @@
                             <?php echo $city; ?>
                         </h1>
                         <p>
-                            Shift your lovely Home or office with packers and movers hisar cantt to get fast delivery and 100% Luggage safety at the Lowest Price.
+                            Shift your lovely Home or office with packers and movers hisar cantt to get fast delivery
+                            and 100% Luggage safety at the Lowest Price.
                         </p>
 
                         <div class="feature">
@@ -98,7 +100,7 @@
                                     <option value="Vehicle">Vehicle</option>
                                     <option value="Someitem">Someitem</option>
                                 </select>
-                                <input type="text" name="reloctionFrom" id="reloctionFrom" value="<?php echo $city; ?>"
+                                <input type="text" name="pickUp" id="pickUp" value="<?php echo $city; ?>"
                                     placeholder="Pick Up Location" />
                                 <input type="text" name="reloctionto" id="reloctionto" placeholder="Drop Location" />
                                 <input type="submit" onclick="goWhatapp()" value="Get Free Quote" />
