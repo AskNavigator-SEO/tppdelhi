@@ -16,7 +16,7 @@
             <div class="left">
               <h1>Hire Best Reliable Packers and Movers in <?php echo $city; ?></h1>
               <p>
-                Shift your lovely Home or office with us to get fast delivery
+                Shift your lovely Home or office with Best Packers and movers  <?php echo $city; ?> to get fast delivery
                 and 100% Luggage's safety at Lowest Price.
               </p>
 
