@@ -8,7 +8,7 @@
           <img
             src="images/1st_black_line.svg"
             width="100%"
-            alt="shadow" loading="lazy"
+            alt="shadow" 
           />
           <!-- <======== hero section =======> -->
           <div class="Hero_Section">
@@ -22,25 +22,25 @@
 
               <div class="feature">
                 <p>
-                  <img src="images/chack_icon.png" alt="checkmark icon" loading="lazy"/><span
+                  <img src="images/chack_icon.png" alt="checkmark icon" /><span
                     >Free Quotation
                   </span>
                 </p>
 
                 <p>
-                  <img src="images/chack_icon.png" alt="checkmark icon" loading="lazy"/><span
+                  <img src="images/chack_icon.png" alt="checkmark icon" /><span
                     >Lowest Cost Guaranted
                   </span>
                 </p>
 
                 <p>
-                  <img src="images/chack_icon.png" alt="checkmark icon" loading="lazy"/><span
+                  <img src="images/chack_icon.png" alt="checkmark icon"/><span
                     >100% Luggage's Safety
                   </span>
                 </p>
 
                 <p>
-                  <img src="images/chack_icon.png" alt="checkmark icon" loading="lazy"/><span
+                  <img src="images/chack_icon.png" alt="checkmark icon" /><span
                     >Live Tracking
                   </span>
                 </p>
@@ -48,7 +48,7 @@
             </div>
 
             <!-- <===========blackshdow=========> -->
-            <img src="images/2nd_black_line.svg" alt="background shadow" width="100%" loading="lazy"/>
+            <img src="images/2nd_black_line.svg" alt="background shadow" width="100%"/>
 
             <!-- <======== right hero side =======> -->
             <div class="right">
@@ -94,7 +94,7 @@
               <img
                 src="images/callanimation.svg"
                 width="20px"
-                alt="call button" loading="lazy"
+                alt="call button" 
               />
             </button>
           </a>

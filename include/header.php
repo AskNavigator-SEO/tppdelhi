@@ -10,7 +10,7 @@
           <div class="nav-header">
             <div class="nav-title">
               <a href="/">
-                <img src="images/logo.png" width="40px" alt="logo" loading="lazy"/>
+                <img src="images/logo.png" width="40px" alt="logo"/>
                 <span> ThePackersmoversDelhi</span>
               </a>
             </div>
@@ -33,7 +33,7 @@
           </div>
           <div class="call_btn">
             <a href="tel:+919817326797">
-              <img src="images/head_call_btn.png" alt="call button" loading="lazy"/>
+              <img src="images/head_call_btn.png" alt="call button"/>
             </a>
           </div>
         </div>
