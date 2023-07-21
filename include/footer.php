@@ -34,6 +34,7 @@
                 <a href="packers-and-movers-pune.html"> <img src="images/location.svg" alt="Location" loading="lazy"> Packers and movers in Pune</a>
                 <a href="packers-and-movers-rajkot.html"> <img src="images/location.svg" alt="Location" loading="lazy"> Packers and movers in Rajkot</a>
                 <a href="packers-and-movers-surat.html"> <img src="images/location.svg" alt="Location" loading="lazy"> Packers and movers in Surat</a>
+                <a href="packers-and-movers-sirsa.html"> <img src="images/location.svg" alt="Location" loading="lazy"> Packers and movers in Sirsa</a>
                 <!-- <a href="packers-and-movers-raipur.html"> <img src="images/location.svg" alt="Location" loading="lazy"> Packers and movers in Raipur</a> -->
                 <!-- <a href="packers-and-movers-thane.html"> <img src="images/location.svg" alt="Location" loading="lazy"> Packers and movers in Thane</a> -->
                 <!-- <a href="packers-and-movers-vijaywada.html"> <img src="images/location.svg" alt="Location" loading="lazy"> Packers and movers in Vijaywada</a> -->
@@ -118,10 +119,10 @@
                             <a href="https://m.facebook.com/103473239094318/"><img src="images/FB_icone.svg" alt="Facbook" loading="lazy"></a>
                             <a href="https://t.me/thepackersmoversdelhi"><img src="images/TG_icone.png" alt="Telegram" loading="lazy"></a>
                             <a href="https://instagram.com/thepackersmoversdelhi?igshid=YmMyMTA2M2Y="><img src="images/IG_icone.png" alt="Instagram" loading="lazy"></a>
-                            <form action="mail.php" method="post">
-                              <input type="number" name="PhoneNumber" id="phonenumber" placeholder="Enter Mobil No." pattern="[0-9]{10}" required>
+                            <form autocomplete="off">
+                              <input type="number" name="PhoneNumber" id="PhoneNumber" placeholder="Mobile Number" pattern="[0-9]{10}" required="required" />
                               <input type="submit" id="submit" value="Get Quotes">
-                              <label for="submit"><img src="images/send_btn.svg" alt="" loading="lazy"></label>
+                              <label for="submit"><img onclick="goWhatapp()" src="images/send_btn.svg" alt="" loading="lazy"></label>
                             </form>
                         </div>
                     </div>
